@@ -11,7 +11,7 @@ sptfy_auth = "f3d33bf066ab4f07bf4685bcf81ee0a2"
 sptfy_api = "faf4810bfc7e4195aeaacebb613b3bd7"
 
 
-yt = build('Youtube', 'v3', developerKey=yt_api )   
+yt = build('youtube', 'v3', developerKey=yt_api )   
 
 request = yt.playlistItems().list(part= 'snippet', playlistId='RDylCVkCstuo4',maxResults=50)
 
@@ -32,10 +32,11 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=sptfy_auth,
                                             redirect_uri="http://localhost:8888/callback",
                                             scope="playlist-modify-public playlist-modify-private"))
 def get_spotify_access_token(sp):
+    token_info = sp.auth_manager.get_cached_token()
+    if not token_info or sp.auth_manager.is_token_expired(token_info):
+        token_info = sp.auth_manager.refresh_access_token(token_info['refresh_token'])
+    return token_info['access_token']
 
-    access_token = sp.auth_manager.get_access_token(as_dict=False)
-
-    return(access_token)
 
 # Get Spotify token
 SPOTIFY_ACCESS_TOKEN = get_spotify_access_token(sp)
@@ -54,12 +55,13 @@ def get_youtube_playlist_videos(playlist_id):
     k=0
     while True:
         request = youtube.playlistItems().list(
-            part="snippet",
+            part="snippet,contentDetails",
             playlistId=playlist_id,
             maxResults=50,
             pageToken=next_page_token
         )
         response = request.execute()
+        
         for item in response['items']:
             try:
                 title = item['snippet']['title']
@@ -84,9 +86,12 @@ def search_spotify_track(title, artist):
     url = f"{SPOTIFY_API_URL}/search?q={query}&type=track&limit=1"
     response = requests.get(url, headers=HEADERS).json()
     tracks = response.get("tracks", {}).get("items", [])
-    print("\ntracks :",tracks)
+    
 
     if tracks:
+        print('\n', title,'<>',artist,' -- ',tracks[0].get("name"))
+        with open('track_example.json','w') as f:
+            json.dump(tracks[0],f, indent=4)
         return tracks[0]['id']
     return None
 
@@ -96,24 +101,16 @@ def get_user_id(token):
     response = requests.get(url, headers=headers)
     return response.json()
 
-def create_spotify_playlist(name, description="YouTube Playlist Import",public=True):
+def create_spotify_playlist(name, description="trialList",public=True):
     user_id = get_user_id(SPOTIFY_ACCESS_TOKEN).get("id")
     print("la mama: ",user_id)
     try:
         playlist = sp.user_playlist_create(user=user_id, name=name, public=public, description=description)
-        return f"✅ Playlist Created: {playlist['name']} (ID: {playlist['id']})"
+        return playlist['id']
     except Exception as e:
-        return f"❌ Error: {str(e)}"
+        print("Error while creating playlist :",e)
+        return None
     
-    
-    # url = f"{SPOTIFY_API_URL}/me"
-    # user_id = 
-    # print("User ID : ",user_id)
-    # playlist_url = f"{SPOTIFY_API_URL}/users/{user_id}/playlists"
-    # data = {"name": name, "description": description, "public": True}
-    # response = requests.post(playlist_url, json=data, headers=HEADERS).json()
-    # print("Playlist creation res :", response)
-    # return response.get('id')
 
 def add_tracks_to_spotify(playlist_id, track_ids):
     url = f"{SPOTIFY_API_URL}/playlists/{playlist_id}/tracks"
@@ -128,7 +125,7 @@ if __name__ == "__main__":
     youtube_tracks = get_youtube_playlist_videos(youtube_playlist_id)
     print("Creating Spotify playlist...")
     
-    spotify_playlist_id = create_spotify_playlist(get_user_id(SPOTIFY_ACCESS_TOKEN))
+    spotify_playlist_id = create_spotify_playlist(name = "Code_trial")
     
     spotify_track_ids = []
     print("Searching and adding tracks to Spotify...")
@@ -142,3 +139,6 @@ if __name__ == "__main__":
         print(f"Successfully added {len(spotify_track_ids)} tracks to Spotify.")
     else:
         print("No tracks found on Spotify.")
+
+# add more specifications to improve search 
+# handle naming and check for playlist existence beforehand

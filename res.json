@@ -1,7 +1,7 @@
 {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "1EHbb_OG1MkpZXI9sKI82gDO3QQ",
-    "nextPageToken": "EAAaFVBUOkVnczRWSGszY1dsQmJFa3lTUQ",
+    "etag": "LvOu1yc-we5etQE_yBv7IhwE4IA",
+    "nextPageToken": "EAAaFVBUOkVndHdSVXBxZVZsT1pFMWxSUQ",
     "items": [
         {
             "kind": "youtube#playlistItem",
@@ -193,36 +193,36 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "1BS014er-wz4Rg_l69QF5z7cjvo",
-            "id": "UkR5bENWa0NzdHVvNC5tMjdsVEdHQ1pkaw",
+            "etag": "_SXfQ2AtluVPfAOUCD_r-7BRQI4",
+            "id": "UkR5bENWa0NzdHVvNC5ieGRTQlJ6TzBKNA",
             "snippet": {
-                "publishedAt": "2025-02-19T15:00:06Z",
+                "publishedAt": "2025-02-22T05:51:19Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Sextile - Freak Eyes (Official Video)",
-                "description": "From the upcoming album \u201cyes, please.\u201d, out on May 02, 2025 on Sacred Bones Records.  \nListen to the single: https://lnk.to/FreakEyes\nPre-save / pre-order the album: https://lnk.to/yes.please.\nCatch Sextile on tour \u2013 tickets available at: https://sextile.music/pages/live\n\nShot and Directed by Alfredo Lopez\nHair and Makeup: Lisa Marie Powell\nCamera Operators: Alfredo Lopez & Anthony Ferrara\nProduced by Alfredo Lopez & Sextile",
+                "title": "Querox & Synesthetic ft. Amy Moon - Stars",
+                "description": "A Captivating new track from Querox, Synesthetic & Amy Moon. A Song that takes you on a journey with it\u00b4s soothing melodies. Amys beautiful Voice shine as she sings heartfelt lyrics about hope and love, while Querox & Synesthetic create a rich soundscape that pulls you in. Stars is perfect for late night drives and dance floor moments.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/m27lTGGCZdk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/bxdSBRzO0J4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/m27lTGGCZdk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bxdSBRzO0J4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/m27lTGGCZdk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bxdSBRzO0J4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/m27lTGGCZdk/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bxdSBRzO0J4/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/m27lTGGCZdk/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/bxdSBRzO0J4/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
@@ -232,44 +232,44 @@
                 "position": 4,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "m27lTGGCZdk"
+                    "videoId": "bxdSBRzO0J4"
                 },
-                "videoOwnerChannelTitle": "SextileVEVO",
-                "videoOwnerChannelId": "UCP6t1bxCm_2GqT8E9ucXajQ"
+                "videoOwnerChannelTitle": "Querox",
+                "videoOwnerChannelId": "UCxD8SrPHtd0cmDLHS6lYfWw"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "KQ6s3nrCHIvDM2cTncZfnCkSalY",
-            "id": "UkR5bENWa0NzdHVvNC5SbFdkQ3k1TXNaTQ",
+            "etag": "JnMjt7NtVvSbCnk59qyiZR6QijU",
+            "id": "UkR5bENWa0NzdHVvNC5OZTlEcjhqZV8wUQ",
             "snippet": {
-                "publishedAt": "2025-02-21T14:45:33Z",
+                "publishedAt": "2025-02-24T16:23:30Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Cirkle \u2014 Shadow Of The Past [SUBL018]",
-                "description": "Support the label, buy it here:\nhttps://sublunarrecords.bandcamp.com/album/shadows-of-the-past\n\nCirkle returns to Sublunar, Sciahri\u2019s label, following the success of \"Sonic Surge,\" with a new EP that showcases both refinement and immense talent. This release encapsulates Cirkle's distinct sound and artistic evolution, offering a rich and immersive sonic journey.\n\nArtist: Cirkle \nTitle: Shadows Of The Past\nLabel: Sublunar\nCatalogue: SUBL018\nFormat: Vinyl & Digital\nGenre: Electronic\nStyle: Techno\nRelease date: February 21, 2024\n\nArtwork by Sciahri\nMastering by Enisslab in Rome\n\nTracklist:\n1. Shadow Of The Past\n2. Beaten\n3. Shamanic\n4. The Wall That We Build \n5. Tears Of Light\n6. Unstoppable Moves (Digi Only)\n\nFollow #Cirkle here:\nhttps://soundcloud.com/cirkle-1\nhttps://www.instagram.com/cirkle__/\nhttps://www.facebook.com/Cirkletechno\n\nFollow #Sublunar here:\nhttps://linktr.ee/sublunar_records\nhttps://www.instagram.com/sublunar_records/\nhttps://www.facebook.com/sublunarrecords/\n\nThe EP opens with \"Shadows of the Past,\" a track driven by a pulsating, groovy synth line and dynamic drum patterns that propel the rhythm forward. It seamlessly transitions into \"Beaten,\" a dark, hypnotic piece that envelops the listener in a shadowy atmosphere.\n\nThe B-side begins with \"Shamanic,\" a track that pays homage to a more classic techno sound while maintaining an irresistible, steady groove. Following this, \"The Wall That We Build\" offers a more delicate and minimalistic approach, balancing precision and subtlety. The journey concludes with \"Tears of Light,\" an epic and transcendental piece that takes the listener to another dimension.\n\nFor the digital-only version, \"Unstoppable Moves\" is an additional gem, a loop-driven, repetitive masterpiece that never loses its captivating momentum.\n\n\n ___\nDISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.\n\nIf either label, artist or third party copyright holder do not agree with their material being uploaded please contact us on Facebook: https://www.facebook.com/hatecollective/\nor via email: hatemusic1@gmail.com\n\nFollow us on SOUNDCLOUD for exclusive podcast series:\nhttps://soundcloud.com/hate_music\n\nFollow us on INSTAGRAM for releases previews and news:\nhttps://www.instagram.com/hate_collective",
+                "title": "Heden \u2014 Martha [SHVRS004]",
+                "description": "Support the label, buy it here:\nhttps://shivers-label.bandcamp.com/\n\nArtist: Heden \nTitle: Martha EP \nLabel: Shivers\nCatalogue: SHVRS004\nFormat: Digital\nGenre: Electronic\nStyle: #Techno\nRelease date: February 28, 2025\n\nTracklist:\n1. Heden - Martha\n2. Heden - C4\n3. Heden - Grave\n4. Heden - Martha (New Frames Remix)\n5. Heden - C4 (Billie Jo In A Trance Remix)\n6. Heden - Grave (Andree Bohlin Remix)\n\nFollow #Shivers here:\nhttps://soundcloud.com/shivers-label\nhttps://www.instagram.com/shivers_label/\nshivers.label@gmail.com\nhttps://linktr.ee/billie.jo\n\nFollow #Heden here:\nhttps://soundcloud.com/lord-house\nhttps://www.instagram.com/ca.heden/\n\n___\nDISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.\n\nCONTACT EMAIL: hatemusic1@gmail.com\n\nFollow us on INSTAGRAM and FACEBOOK for releases previews and news:\nhttps://www.instagram.com/hate_collective\nhttps://www.facebook.com/hatecollective/\n\nFollow us on SOUNDCLOUD for exclusive podcast series:\nhttps://soundcloud.com/hate_music",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/RlWdCy5MsZM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Ne9Dr8je_0Q/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/RlWdCy5MsZM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Ne9Dr8je_0Q/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/RlWdCy5MsZM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Ne9Dr8je_0Q/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/RlWdCy5MsZM/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Ne9Dr8je_0Q/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/RlWdCy5MsZM/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Ne9Dr8je_0Q/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
@@ -279,7 +279,7 @@
                 "position": 5,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "RlWdCy5MsZM"
+                    "videoId": "Ne9Dr8je_0Q"
                 },
                 "videoOwnerChannelTitle": "HATE",
                 "videoOwnerChannelId": "UC6qQOTx9LuKMC5p2dbjmSRg"
@@ -564,7 +564,54 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "11FKyBDqIEHmu8lqtaBa88RFpY0",
+            "etag": "X1er02_uNIopa27qAx47Wy3CZvE",
+            "id": "UkR5bENWa0NzdHVvNC5BX0pkS2R5cFN4SQ",
+            "snippet": {
+                "publishedAt": "2025-02-24T16:21:56Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Heden \u2014 Martha (New Frames Remix) [SHVRS004]",
+                "description": "Support the label, buy it here:\nhttps://shivers-label.bandcamp.com/\n\nArtist: Heden \nTitle: Martha EP \nLabel: Shivers\nCatalogue: SHVRS004\nFormat: Digital\nGenre: Electronic\nStyle: #Techno\nRelease date: February 28, 2025\n\nTracklist:\n1. Heden - Martha\n2. Heden - C4\n3. Heden - Grave\n4. Heden - Martha (New Frames Remix)\n5. Heden - C4 (Billie Jo In A Trance Remix)\n6. Heden - Grave (Andree Bohlin Remix)\n\nFollow #Shivers here:\nhttps://soundcloud.com/shivers-label\nhttps://www.instagram.com/shivers_label/\nshivers.label@gmail.com\nhttps://linktr.ee/billie.jo\n\nFollow #Heden here:\nhttps://soundcloud.com/lord-house\nhttps://www.instagram.com/ca.heden/\n\n___\nDISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.\n\nCONTACT EMAIL: hatemusic1@gmail.com\n\nFollow us on INSTAGRAM and FACEBOOK for releases previews and news:\nhttps://www.instagram.com/hate_collective\nhttps://www.facebook.com/hatecollective/\n\nFollow us on SOUNDCLOUD for exclusive podcast series:\nhttps://soundcloud.com/hate_music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A_JdKdypSxI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A_JdKdypSxI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A_JdKdypSxI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/A_JdKdypSxI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/A_JdKdypSxI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "A_JdKdypSxI"
+                },
+                "videoOwnerChannelTitle": "HATE",
+                "videoOwnerChannelId": "UC6qQOTx9LuKMC5p2dbjmSRg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nVxvtghzAnOaI40uu_e_95KJdU8",
             "id": "UkR5bENWa0NzdHVvNC5CaXRUQWpRYWdiTQ",
             "snippet": {
                 "publishedAt": "2018-12-11T10:24:01Z",
@@ -600,7 +647,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 12,
+                "position": 13,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "BitTAjQagbM"
@@ -611,7 +658,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "szbzUqlqtxgpUM1yYZiMjeOHWF8",
+            "etag": "_pkkNHuIuHT1dB5tm9sb6p-dlnI",
             "id": "UkR5bENWa0NzdHVvNC5NUVpTTlQxX09uTQ",
             "snippet": {
                 "publishedAt": "2023-04-09T23:38:13Z",
@@ -647,7 +694,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 13,
+                "position": 14,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "MQZSNT1_OnM"
@@ -658,54 +705,101 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "KiufssnTTWwOp230jJywXygGDNs",
-            "id": "UkR5bENWa0NzdHVvNC5qSlYyZjY5ZlZROA",
+            "etag": "6NkVSBM0_OAk3Dcy3VU7DFTnLOU",
+            "id": "UkR5bENWa0NzdHVvNC51eWEwd2NOSV9Gcw",
             "snippet": {
-                "publishedAt": "2025-02-20T10:35:00Z",
+                "publishedAt": "2025-02-24T11:01:20Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Nicolas Bouga\u00efeff - Harvest (Official Audio)",
-                "description": "Berlin-based, Canadian artist Nicolas Bouga\u00efeff returns to NovaMute with Primal Extensions, the first in a trilogy of EPs exploring complex rhythmic structures and theoretical concepts with the aim to challenge the conventions of electronic music. Out now: https://mute.ffm.to/nb-pe",
+                "title": "Techno / EBM / Cyberpunk / Industrial beat  \"In a Grip\"",
+                "description": "Techno / Cyberpunk / EBM / Industrial beat  \nCybermode Beats - In a Grip\nFor all inquiries: kontakt@cybermo.de\n\nArtworks are exclusively provided by The Imagination Syndicate (Th.I.S.) https://bio.site/this\n\nFollow Cybermode:\n\u25baWebsite: https://cybermo.de\n\u25baDISCORD SERVER: https://discord.gg/FuXGKqeA\n\u25baBandcamp: https://cybermode.bandcamp.com\n\u25baOur YouTube channel for Ambient/Cinematic music: https://www.youtube.com/c/CybermodeCinematics\n\u25baOur YouTube channel for mixes: https://www.youtube.com/c/cybermode\n\u25baInstagram: https://www.instagram.com/cybermodehq\n\u25baSpotify: https://open.spotify.com/artist/2ijhH1qRFJLfOvEGNMsFIB",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/jJV2f69fVQ8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/uya0wcNI_Fs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/jJV2f69fVQ8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uya0wcNI_Fs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/jJV2f69fVQ8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uya0wcNI_Fs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/jJV2f69fVQ8/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uya0wcNI_Fs/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/jJV2f69fVQ8/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uya0wcNI_Fs/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 14,
+                "position": 15,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "jJV2f69fVQ8"
+                    "videoId": "uya0wcNI_Fs"
                 },
-                "videoOwnerChannelTitle": "Mute",
-                "videoOwnerChannelId": "UCyZXZ0D0AfgfhwzJDHpwl3g"
+                "videoOwnerChannelTitle": "Cybermode Beats",
+                "videoOwnerChannelId": "UCNsBK3q-eYKKBOhgBw1up5A"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "TXQ2pH_J9W5k-xnd5T_X-RnqmjY",
+            "etag": "2tAu7g5RZYMbecqquuBtBtm8ttg",
+            "id": "UkR5bENWa0NzdHVvNC5GQVNweUcxRlRNTQ",
+            "snippet": {
+                "publishedAt": "2025-02-24T16:23:07Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Heden \u2014 C4 [SHVRS004]",
+                "description": "Support the label, buy it here:\nhttps://shivers-label.bandcamp.com/\n\nArtist: Heden \nTitle: Martha EP \nLabel: Shivers\nCatalogue: SHVRS004\nFormat: Digital\nGenre: Electronic\nStyle: #Techno\nRelease date: February 28, 2025\n\nTracklist:\n1. Heden - Martha\n2. Heden - C4\n3. Heden - Grave\n4. Heden - Martha (New Frames Remix)\n5. Heden - C4 (Billie Jo In A Trance Remix)\n6. Heden - Grave (Andree Bohlin Remix)\n\nFollow #Shivers here:\nhttps://soundcloud.com/shivers-label\nhttps://www.instagram.com/shivers_label/\nshivers.label@gmail.com\nhttps://linktr.ee/billie.jo\n\nFollow #Heden here:\nhttps://soundcloud.com/lord-house\nhttps://www.instagram.com/ca.heden/\n\n___\nDISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.\n\nCONTACT EMAIL: hatemusic1@gmail.com\n\nFollow us on INSTAGRAM and FACEBOOK for releases previews and news:\nhttps://www.instagram.com/hate_collective\nhttps://www.facebook.com/hatecollective/\n\nFollow us on SOUNDCLOUD for exclusive podcast series:\nhttps://soundcloud.com/hate_music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FASpyG1FTMM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FASpyG1FTMM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FASpyG1FTMM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FASpyG1FTMM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FASpyG1FTMM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FASpyG1FTMM"
+                },
+                "videoOwnerChannelTitle": "HATE",
+                "videoOwnerChannelId": "UC6qQOTx9LuKMC5p2dbjmSRg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9V_zEuT4dSqkEdEkbA6WKwTu2ws",
             "id": "UkR5bENWa0NzdHVvNC5rWGg0aG9ZRmxGdw",
             "snippet": {
                 "publishedAt": "2018-03-03T16:01:26Z",
@@ -741,7 +835,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 15,
+                "position": 17,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "kXh4hoYFlFw"
@@ -752,7 +846,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "7lVBS3MJWSg4_HW380CHiL9MDtY",
+            "etag": "TsjYX0HGnBzE-6WG1bimpGhsRYQ",
             "id": "UkR5bENWa0NzdHVvNC5Hb2pocHhya05iNA",
             "snippet": {
                 "publishedAt": "2021-09-21T15:59:30Z",
@@ -788,7 +882,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 16,
+                "position": 18,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "GojhpxrkNb4"
@@ -799,7 +893,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Z3Jp5f6GWd63EZ-3smYXg9y3zl4",
+            "etag": "mN5-CwxJnRch9yaU_8qCgdyl1vw",
             "id": "UkR5bENWa0NzdHVvNC5GT3pSZlExaFlfZw",
             "snippet": {
                 "publishedAt": "2024-11-29T02:13:35Z",
@@ -835,7 +929,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 17,
+                "position": 19,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "FOzRfQ1hY_g"
@@ -846,49 +940,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Y2AO0gmSYazwrkcOMh3y_tv3CLs",
-            "id": "UkR5bENWa0NzdHVvNC5mbkFiSUM5S3RfTQ",
-            "snippet": {
-                "publishedAt": "2024-12-13T15:00:45Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Thoma Bulwer x Anna Wall - Damn girl that's a lot of swing",
-                "description": "Visit our online shop: https://houseum-store.com\n\nPREMIERE on Soundcloud: https://on.soundcloud.com/btBVXc5GXK9Jhat46\n\nLabel: Classique Records\nArtist: Thoma Bulwer & Anna Wall\nFormat: Digital\nCat. Number: CLASSIQ003\nRelease Date: December 2024\nSupport it : Soon\n\nClassique Records\nhttps://www.instagram.com/classiquerecs/\nhttps://on.soundcloud.com/XvxFMzXTgZppZBem7\n\nThoma Bulwer\nhttps://www.instagram.com/thomabulwer/\nhttps://soundcloud.com/thomabulwer\n\nAnna Wall\nhttps://www.instagram.com/djannawall/\nhttps://soundcloud.com/djannawall\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nHouseum\nhttps://houseum.fr\nhttps://www.instagram.com/houseum_\nhttps://www.instagram.com/houseum_records\nhttps://soundcloud.com/houseum\nhttps://www.facebook.com/houseum.yt",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/fnAbIC9Kt_M/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/fnAbIC9Kt_M/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/fnAbIC9Kt_M/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/fnAbIC9Kt_M/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 18,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "fnAbIC9Kt_M"
-                },
-                "videoOwnerChannelTitle": "Houseum",
-                "videoOwnerChannelId": "UC58C_BhzlZIJTeomuVSD2lA"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "fHutDLOfATDqiiVT0P1DRy1GZqc",
+            "etag": "eh0knimkXEM5xOVYeMFACdjiUDA",
             "id": "UkR5bENWa0NzdHVvNC5xZVZJTWk1R2dCOA",
             "snippet": {
                 "publishedAt": "2019-03-05T13:55:37Z",
@@ -924,7 +976,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 19,
+                "position": 20,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "qeVIMi5GgB8"
@@ -935,7 +987,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "MnqFgW6JJP_5jEytNM7jd-lxDsA",
+            "etag": "hcKuGNulW7NCgdXEFGKjN7-QMnU",
             "id": "UkR5bENWa0NzdHVvNC5kcDB0QnpIX3hFWQ",
             "snippet": {
                 "publishedAt": "2017-09-24T13:55:24Z",
@@ -966,7 +1018,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 20,
+                "position": 21,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "dp0tBzH_xEY"
@@ -977,54 +1029,49 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "QmyIq-JAhP5axYCT0uYokwf7LCs",
-            "id": "UkR5bENWa0NzdHVvNC5wQzlmNW8wY2NYQQ",
+            "etag": "vErdmAOb4bsKCF79qokoYXQ8JAk",
+            "id": "UkR5bENWa0NzdHVvNC5mbkFiSUM5S3RfTQ",
             "snippet": {
-                "publishedAt": "2024-03-21T10:04:14Z",
+                "publishedAt": "2024-12-13T15:00:45Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Unwind Your Mind",
-                "description": "Provided to YouTube by Base79\n\nUnwind Your Mind \u00b7 Estefano Haze\n\nUnwind Your Mind\n\n\u2117 IONO Music\n\nReleased on: 2024-03-22\n\nAuto-generated by YouTube.",
+                "title": "Thoma Bulwer x Anna Wall - Damn girl that's a lot of swing",
+                "description": "Visit our online shop: https://houseum-store.com\n\nPREMIERE on Soundcloud: https://on.soundcloud.com/btBVXc5GXK9Jhat46\n\nLabel: Classique Records\nArtist: Thoma Bulwer & Anna Wall\nFormat: Digital\nCat. Number: CLASSIQ003\nRelease Date: December 2024\nSupport it : Soon\n\nClassique Records\nhttps://www.instagram.com/classiquerecs/\nhttps://on.soundcloud.com/XvxFMzXTgZppZBem7\n\nThoma Bulwer\nhttps://www.instagram.com/thomabulwer/\nhttps://soundcloud.com/thomabulwer\n\nAnna Wall\nhttps://www.instagram.com/djannawall/\nhttps://soundcloud.com/djannawall\n\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\u25ac\nHouseum\nhttps://houseum.fr\nhttps://www.instagram.com/houseum_\nhttps://www.instagram.com/houseum_records\nhttps://soundcloud.com/houseum\nhttps://www.facebook.com/houseum.yt",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/pC9f5o0ccXA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/fnAbIC9Kt_M/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/pC9f5o0ccXA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/fnAbIC9Kt_M/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/pC9f5o0ccXA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/fnAbIC9Kt_M/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/pC9f5o0ccXA/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/fnAbIC9Kt_M/sddefault.jpg",
                         "width": 640,
                         "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/pC9f5o0ccXA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
                     }
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 21,
+                "position": 22,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "pC9f5o0ccXA"
+                    "videoId": "fnAbIC9Kt_M"
                 },
-                "videoOwnerChannelTitle": "EstefanO Haze - Topic",
-                "videoOwnerChannelId": "UCtTkwWc-bKo7X94pH-oNuhw"
+                "videoOwnerChannelTitle": "Houseum",
+                "videoOwnerChannelId": "UC58C_BhzlZIJTeomuVSD2lA"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "UH89D_mrotmxGTIDtJ8nSCn8weU",
+            "etag": "DvZaOiTI1RKyUsyow1wxkS3t2Yk",
             "id": "UkR5bENWa0NzdHVvNC52dEllS1lRaG9MNA",
             "snippet": {
                 "publishedAt": "2023-10-20T09:20:16Z",
@@ -1060,7 +1107,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 22,
+                "position": 23,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "vtIeKYQhoL4"
@@ -1071,7 +1118,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "LOBcV7gsrtdcnEQpFQHmR1UcaBE",
+            "etag": "Cge4AnX5OYEihd1tQMWG6mtO1e8",
             "id": "UkR5bENWa0NzdHVvNC5VbEdXMkpIZXFIYw",
             "snippet": {
                 "publishedAt": "2022-07-28T10:09:33Z",
@@ -1107,7 +1154,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 23,
+                "position": 24,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "UlGW2JHeqHc"
@@ -1118,524 +1165,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "S1SH52cUFQMc5QrW7SPLo-yQK28",
-            "id": "UkR5bENWa0NzdHVvNC5ieGRTQlJ6TzBKNA",
-            "snippet": {
-                "publishedAt": "2025-02-22T05:51:19Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Querox & Synesthetic ft. Amy Moon - Stars",
-                "description": "A Captivating new track from Querox, Synesthetic & Amy Moon. A Song that takes you on a journey with it\u00b4s soothing melodies. Amys beautiful Voice shine as she sings heartfelt lyrics about hope and love, while Querox & Synesthetic create a rich soundscape that pulls you in. Stars is perfect for late night drives and dance floor moments.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/bxdSBRzO0J4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/bxdSBRzO0J4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/bxdSBRzO0J4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/bxdSBRzO0J4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/bxdSBRzO0J4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 24,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "bxdSBRzO0J4"
-                },
-                "videoOwnerChannelTitle": "Querox",
-                "videoOwnerChannelId": "UCxD8SrPHtd0cmDLHS6lYfWw"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Q7nSn40ywN8JZM724jSfa1QVZ68",
-            "id": "UkR5bENWa0NzdHVvNC5RbkF3N0RqZ2lzNA",
-            "snippet": {
-                "publishedAt": "2019-06-28T11:09:27Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Amelie Lens - Hypnotized (Joyhauser Remix)",
-                "description": "Buy-link: https://fanlink.to/AmelieLens-Hypnotized\n\nAmelie Lens - Hypnotized EP [SNDST063]\n\n1: Amelie Lens - Hypnotized\n2: Amelie Lens - Access\n3: Amelie Lens - Hypnotized (Joyhauser Remix)\n\nOne and a half years since her last outing on Second State, Amelie Lens returns to the label with her highly anticipated new 3-tracker, \u2018Hypnotized EP\u2018. Following up to the much acclaimed \u2018Basiel EP\u2019 issued in 2018 through her own imprint, Lenske, Amelie steps up right in time for the much busy festival season ahead with a pair of razor-sharp peaktime weapons, plus a nasty gabber-inflected remix from rising Belgian duo Joyhauser. With upcoming dates including performances at S\u00f3nar, Movement, Awakenings, Exit, Kappa Future and Sonus, needless to say these are bound to get dance floors on fire this summer.\n\nHaving triggered a massive response from the audience during her sets over the last year, the title track \u2019Hypnotized\u2018 breaks the ice on a fiercely pounding note. Flexing out the heavy kick artillery, brooding chord stabs and cascading snares while Amelie\u2019s delayed vox hooks steadily sink us into a whelming state of trance. Reaching for the most remote recesses of the dancers\u2019 minds, \u2018Access\u2019 revs up the engine a notch further with its psychoactive synthwaves, furling and swirling across full bars of louder than loud 909 thump. Adding their euphoric spin to the lead cut, \u2018Hypnotized\u2019, Joyhauser seal the deal with an all-out ravey anthem of a rework, custom-built for epic, warehouse-sized maneuvers and iron-pumping mid-set apexes. Shockwaves are coming.\n\nWritten and produced by Amelie Lens.\nRemix and additional production by Joyhauser.\nAll rights reserved to Second State.\n\n------\nOur vinyls & merch:\nhttps://secondstate.bandcamp.com/\n\nSign up for our newsletter:\nhttps://mailchi.mp/1d5d3ecc2af4/yt-newsletter-signup\n\nFollow us on:\nFacebook:  http://www.facebook.com/secondstate\nInstagram: http://www.instagram.com/secondstateaudio\nSoundcloud: https://soundcloud.com/secondstateaudio\n\n#Techno #SecondState",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/QnAw7Djgis4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/QnAw7Djgis4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/QnAw7Djgis4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/QnAw7Djgis4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/QnAw7Djgis4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 25,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "QnAw7Djgis4"
-                },
-                "videoOwnerChannelTitle": "Second State",
-                "videoOwnerChannelId": "UCAwvBWsjOPYg8SLhBCnn0ow"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "DChR_ddvxQtSxJzJAinjLfwbaPA",
-            "id": "UkR5bENWa0NzdHVvNC5vbl9kdVpNWG5sVQ",
-            "snippet": {
-                "publishedAt": "2024-10-12T04:45:02Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Techno \ud83d\udca3 Acid House \ud83d\udca3 Psy-Trance \ud83d\udca3 EDM - Droid",
-                "description": "A mixture of Techno and Pop music using Ableton Live",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/on_duZMXnlU/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/on_duZMXnlU/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/on_duZMXnlU/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/on_duZMXnlU/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/on_duZMXnlU/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 26,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "on_duZMXnlU"
-                },
-                "videoOwnerChannelTitle": "Silas",
-                "videoOwnerChannelId": "UC5Bx7qQnD8qRhERO_seRYDQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Of5ru19YpHzwGd3NjB7OLFMoijY",
-            "id": "UkR5bENWa0NzdHVvNC40bnAtUXo3TmJ6RQ",
-            "snippet": {
-                "publishedAt": "2021-02-26T15:45:00Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Nico Moreno - Purple Widow (Official Clip)",
-                "description": "Nico Moreno Purple Widow (Official Clip)\n\nLabel: Insolent Rave Records \n\nClip From: Freddy Ayen \n\nDancer: Anna Benamar & Mathis Scalici\n\n\nArtists: Nico Moreno \n\nFacebook:\nhttps://www.facebook.com/nicomorenomusic\n\nInstagram:\nhttps://www.instagram.com/nicomoreno_music/\n\nSoundcloud:\nsoundcloud.com/nicomorenomusic\n\nLabel: Insolent Rave Records \n\nFacebook:\nhttps://www.facebook.com/insolentraverecords\n\nInstagram:\nhttps://www.instagram.com/insolentrave_records/\n\nSoundcloud:\nhttps://soundcloud.com/insolentraverecords",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/4np-Qz7NbzE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/4np-Qz7NbzE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/4np-Qz7NbzE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/4np-Qz7NbzE/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/4np-Qz7NbzE/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 27,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "4np-Qz7NbzE"
-                },
-                "videoOwnerChannelTitle": "Nico Moreno",
-                "videoOwnerChannelId": "UCh7vpmXT9EKlFbGkLqT87vQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "Yac01XSbs_Ph_3XfBiGNuXvb11c",
-            "id": "UkR5bENWa0NzdHVvNC5YSHlyNm9CdTVLOA",
-            "snippet": {
-                "publishedAt": "2017-02-08T08:28:19Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Anetha - Acid Train [ANAGRAM007]",
-                "description": "Support the label, buy it here:\nhttps://hardwax.com/77512/various-artists/phasing-faces-vol-1/\nhttps://clone.nl/item44114.html\nhttp://www.juno.co.uk/products/sinfol-davide-anetha-phasing-faces-part-1/636729-01/\nhttp://www.deejay.de/Sinfol_Davide_Anetha_Elad_Magdasi_Phasing_Faces_Vol_1_ANAGRAM007_Vinyl__257471\nhttps://www.redeyerecords.co.uk/vinyl/81068-anagram007-sinfol-davide-anetha-elad-magdasi-phasing-faces-vol--1\n\nArtists: Sinfol, Davide, Anetha, Elad Magdasi\nTitle: Phasing Faces Vol. 1\nLabel: Anagram \nCatalogue: ANAGRAM007\nFormat: 12\"\nStyle: Techno\nCountry: Netherlands\nRelease date: 3rd January 2017\n\nTracklist:\nA1:    Sinfol - Trembling\nA2:    Davide - Ono\nB1:    Anetha - Acid Train\nB2:    Elad Magdasi - Two Floors\n\nSinfol readies a two-part release on his Anagram Label featuring Anetha, Elad Magdasi, Octual and more. Curated by Amsterdam's Sinfol, Volume 1 of 'Phasing Faces' will feature himself alongside Italy's Davide, Berlin's Elad Magdasi and Parisian producer Anetha. Meanwhile Volume 2 will see core Anagram artist Octual helm the package, joined by Mathame, who's appeared on Krill Music and Souvenir Music, as well as Maukook who's also known under his DJ Playstation moniker. Sinfol's dark and ominous 'Trembling' lays down a cacophony of sounds whilst a mesmerizing voice operates on top. The ethereal and rhythmic 'Ono' from Da?vide then introduces soaring synths and various spectral nuances before Work Them Records producer and Blocaus resident Anetha's 'Acid Train' lives up to its name with an infectious 303 and raves stabs. Tying things together, Front Left Records' Elad Magdasi's 'Two Floors' closes off the release in an epic manner with thudding kicks and otherworldly melodies.\n\n ___\nDISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.\n\nhttps://www.facebook.com/hatecollective/\nor via email: hatemusic1@gmail.com\n\nFollow us on SOUNDCLOUD for exclusive podcast series:\nhttps://soundcloud.com/hate_music",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/XHyr6oBu5K8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/XHyr6oBu5K8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/XHyr6oBu5K8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/XHyr6oBu5K8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/XHyr6oBu5K8/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 28,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "XHyr6oBu5K8"
-                },
-                "videoOwnerChannelTitle": "HATE",
-                "videoOwnerChannelId": "UC6qQOTx9LuKMC5p2dbjmSRg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "T3AjpG6xFP68EuHj-z1FQ_extsE",
-            "id": "UkR5bENWa0NzdHVvNC5vVF9WYnUyRWFXaw",
-            "snippet": {
-                "publishedAt": "2025-01-31T07:38:13Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Valar - Waking Up",
-                "description": "Prepare to dive into the mesmerizing world of Valar, the debut project from Netherlands-based audio engineer and producer Ben Siegal. Drawing inspiration from early electronic icons like The Prodigy, Jean-Michel Jarre, and The Chemical Brothers, and later refining his sound under the influence of Zen Mechanics, Infected Mushroom, and Headroom, Valar emerges as a bold new voice in the psychedelic trance scene. Valars debut EP Synthient, a stunning two-track release, is a masterclass in sonic storytelling, seamlessly blending the transcendental landscapes of progressive trance with the high-energy dynamism of full-on psychedelia. With hypnotic rhythms, intricate melodies, and electrifying textures, this debut offering is a journey through sound that promises to leave a lasting impression on dancefloors and beyond. Welcome to the world of Valar.\n\nValar - Waking Up, released on 31.01.2025. by Iboga Records - IBOGADIGITAL951\n\nGet it: https://www.beatport.com/release/synthient/4896548\n\nAlso check out:\nHeadroom - The Big Banger: https://youtu.be/7YzDLvlozkk\n\nIboga - interviews & special videos: http://bit.ly/1NB41oZ\nIboga - Live Acts: http://bit.ly/1L4xLUs\n\nMore Iboga:\nhttp://www.iboga.dk/\nhttps://www.facebook.com/ibogarecords\nhttps://soundcloud.com/ibogarecords\nhttp://www.beatport.com/label/iboga-records/919\nhttps://twitter.com/IbogaRecords\n\nManaged by the two Danish DJs Emok & Banel since the mid nineties, Iboga Records today are considered the leading label of the global progressive and trance scene. Not limiting itself to one specific genre, the label has been responsible for hundreds of releases in a broad spectrum of electronic music. The main genres being Psy-trance, Techno and Downbeat Electronica. The label has built through the years a strong reputation as a quality brand, housing some of the leading artists of its genre, like Ace Ventura, Liquid Soul, Perfect Stranger, Captain Hook, Ticon, Son Kite and many others.\n\nThis channel is powered by Trancentral.\nSubscribe for updates: http://bit.ly/TrancentralSubscribe\n\n#psytrance #trance #trancemusic #psychedelic #ibogarecords #Valar",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/oT_Vbu2EaWk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/oT_Vbu2EaWk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/oT_Vbu2EaWk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/oT_Vbu2EaWk/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/oT_Vbu2EaWk/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 29,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "oT_Vbu2EaWk"
-                },
-                "videoOwnerChannelTitle": "Iboga Records Music",
-                "videoOwnerChannelId": "UCK3vmdxfttWSGm4P-31laEQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "HKg1ESJ9u_jP9LNKqgdfFCPHDKE",
-            "id": "UkR5bENWa0NzdHVvNC5YQnd4a2tkckZMOA",
-            "snippet": {
-                "publishedAt": "2024-02-18T09:16:47Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "HARDTECHNO Kardenal - Transient (Official)",
-                "description": "Transient - Digital Format - Out on Eclipse Recordings on 16 February 2024 (NoResponse EP).\n\nGrab your copy here: https://www.beatport.com/it/release/noresponse-ep/4415020\n\nIf you want to support Kardenal subscribe to my channel and follow me on other platforms:\n\nInstagram: https://www.instagram.com/kardenal_music\nSoundcloud: https://soundcloud.com/kardenalmusic\nTiktok: https://www.tiktok.com/@kardenal.music\n\nDancers (IG Profile):\n@BEE_MOo\n@diemo.seiss\n@christina.110804\n\nVideo Shoot: Dxmaa.x\nThe use of videos are granted with permission of the creator",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/XBwxkkdrFL8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/XBwxkkdrFL8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/XBwxkkdrFL8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/XBwxkkdrFL8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/XBwxkkdrFL8/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 30,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "XBwxkkdrFL8"
-                },
-                "videoOwnerChannelTitle": "KARDENAL",
-                "videoOwnerChannelId": "UCJsbdYT8PZ56JoxL2Bgenfg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "SK3lfuGRjR4mu3KWavFswQVRJr8",
-            "id": "UkR5bENWa0NzdHVvNC5DSHNuclZQM29DMA",
-            "snippet": {
-                "publishedAt": "2017-01-20T07:13:32Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Schwefelgelb - Es zieht mich [a+w XI]",
-                "description": "Bought@https://aufnahmeundwiedergabe.bandcamp.com/album/dahinter-das-gesicht\n\nTracklist:\n1. Es zieht mich\n2. Aus dem Hals der Flasche\n3. Fokus\n4. Durch die Haare Die Stirn\n\n[a+w XI] \nSchwefelgelb - Dahinter das Gesicht 12\" \nlimited edition of 500 copies \nwww.aufnahmeundwiedergabe.de/wiedergaben\n\nNOTE: No copyrights infrigments intended, uploaded in low quality just for promotional purpose to respect labels and artists involved.  Will remove immediately on request via email: a1a2b1b2channel@gmail.com or via private message on Youtube. Buy links in the description.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/CHsnrVP3oC0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/CHsnrVP3oC0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/CHsnrVP3oC0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/CHsnrVP3oC0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/CHsnrVP3oC0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 31,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "CHsnrVP3oC0"
-                },
-                "videoOwnerChannelTitle": "A1A2B1B2",
-                "videoOwnerChannelId": "UCj_4c-JWo0u25RjZmC3D_zQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "lEJ4r45QD8iWZqLV1rU_bbETfyo",
-            "id": "UkR5bENWa0NzdHVvNC5ZbXlyakdaM0hKOA",
-            "snippet": {
-                "publishedAt": "2025-01-13T09:29:59Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Eman - Shepha [SK11X029]",
-                "description": "Support the label, buy it here:\nhttps://skeleven.bandcamp.com/album/kapara\nhttps://www.deejay.de/Eman_Kapara_SK11X029_Vinyl__1113800\n\nArtist: Eman\nTitle: Kapara\nLabel: SK_eleven\nCatalogue: SK11X029\nFormat: 12\" Vinyl\nGenre: Electronic\nStyle: #Techno\nRelease date: January 13, 2025\n\nW&P by Emmanuel Gunther\nMastered by Beau Thomas @ 1087 Mastering, London\nAll rights reserved SK_eleven 2025\n\nFollow #Eman here:\nhttps://soundcloud.com/eman_lust\nhttps://www.instagram.com/manu_eman_/\n\nFollow #SK_Eleven here:\nhttps://soundcloud.com/sk_eleven\nhttps://www.facebook.com/SKeleventechno/\nhttps://www.instagram.com/sk_eleven_11/\n\nTracklist:\nA1: Kapara\nA2: Midnight Bath\nB1: Pink Marble\nB2: Shepha\n\n___\nDISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.\n\nCONTACT EMAIL: hatemusic1@gmail.com\n\nFollow us on INSTAGRAM and FACEBOOK for releases previews and news:\nhttps://www.instagram.com/hate_collective\nhttps://www.facebook.com/hatecollective/\n\nFollow us on SOUNDCLOUD for exclusive podcast series:\nhttps://soundcloud.com/hate_music",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/YmyrjGZ3HJ8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/YmyrjGZ3HJ8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/YmyrjGZ3HJ8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/YmyrjGZ3HJ8/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/YmyrjGZ3HJ8/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 32,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "YmyrjGZ3HJ8"
-                },
-                "videoOwnerChannelTitle": "HATE",
-                "videoOwnerChannelId": "UC6qQOTx9LuKMC5p2dbjmSRg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "4PEUsKus9unL4gjLbruDI5vALyo",
-            "id": "UkR5bENWa0NzdHVvNC52eEROc090M2NaQQ",
-            "snippet": {
-                "publishedAt": "2020-12-06T17:41:45Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Vieze Asbak - Meet Her At The Love Parade",
-                "description": "",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/vxDNsOt3cZA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/vxDNsOt3cZA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/vxDNsOt3cZA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/vxDNsOt3cZA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/vxDNsOt3cZA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 33,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "vxDNsOt3cZA"
-                },
-                "videoOwnerChannelTitle": "Vieze Asbak",
-                "videoOwnerChannelId": "UCXNjYr3ua1z3QdXMeG7GrAg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "oDfZiTW0z_047325c1zXRLckbU0",
-            "id": "UkR5bENWa0NzdHVvNC42aXl5eDFRY1AySQ",
-            "snippet": {
-                "publishedAt": "2017-02-18T21:36:49Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Nico Moreno - Don't Call Your Mom",
-                "description": "Free Link:\nhttps://soundcloud.com/nicomorenomusic/dont-call-your-mom\n\nArtist: Nico Moreno \nTrack: Don't Call Your Mom\n\nFollow Nico Moreno:\nFB - https://www.facebook.com/nicomorenomusic/\nSC - https://soundcloud.com/nicomorenomusic\n\nFollow TechnoCartel: \nFB - https://www.facebook.com/groups/661159060713083/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/6iyyx1QcP2I/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/6iyyx1QcP2I/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/6iyyx1QcP2I/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/6iyyx1QcP2I/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/6iyyx1QcP2I/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 34,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "6iyyx1QcP2I"
-                },
-                "videoOwnerChannelTitle": "Techno Cartel",
-                "videoOwnerChannelId": "UCmezV9ultue--YEFK8efziQ"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "_2e_cnwlH7KU7hkyx9L7LwpiTVk",
+            "etag": "VdCJjYMhaYaz-GTSLArDzG1Ywx4",
             "id": "UkR5bENWa0NzdHVvNC5VZ1BwbmZnSzRRRQ",
             "snippet": {
                 "publishedAt": "2025-02-21T01:00:20Z",
@@ -1671,7 +1201,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 35,
+                "position": 25,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "UgPpnfgK4QE"
@@ -1682,7 +1212,618 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Cm23rda9QVOYXYQtUMzKdKO_yB0",
+            "etag": "6mGcXxSdWyq_hBtus36rxwQRXEk",
+            "id": "UkR5bENWa0NzdHVvNC5YSHlyNm9CdTVLOA",
+            "snippet": {
+                "publishedAt": "2017-02-08T08:28:19Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Anetha - Acid Train [ANAGRAM007]",
+                "description": "Support the label, buy it here:\nhttps://hardwax.com/77512/various-artists/phasing-faces-vol-1/\nhttps://clone.nl/item44114.html\nhttp://www.juno.co.uk/products/sinfol-davide-anetha-phasing-faces-part-1/636729-01/\nhttp://www.deejay.de/Sinfol_Davide_Anetha_Elad_Magdasi_Phasing_Faces_Vol_1_ANAGRAM007_Vinyl__257471\nhttps://www.redeyerecords.co.uk/vinyl/81068-anagram007-sinfol-davide-anetha-elad-magdasi-phasing-faces-vol--1\n\nArtists: Sinfol, Davide, Anetha, Elad Magdasi\nTitle: Phasing Faces Vol. 1\nLabel: Anagram \nCatalogue: ANAGRAM007\nFormat: 12\"\nStyle: Techno\nCountry: Netherlands\nRelease date: 3rd January 2017\n\nTracklist:\nA1:    Sinfol - Trembling\nA2:    Davide - Ono\nB1:    Anetha - Acid Train\nB2:    Elad Magdasi - Two Floors\n\nSinfol readies a two-part release on his Anagram Label featuring Anetha, Elad Magdasi, Octual and more. Curated by Amsterdam's Sinfol, Volume 1 of 'Phasing Faces' will feature himself alongside Italy's Davide, Berlin's Elad Magdasi and Parisian producer Anetha. Meanwhile Volume 2 will see core Anagram artist Octual helm the package, joined by Mathame, who's appeared on Krill Music and Souvenir Music, as well as Maukook who's also known under his DJ Playstation moniker. Sinfol's dark and ominous 'Trembling' lays down a cacophony of sounds whilst a mesmerizing voice operates on top. The ethereal and rhythmic 'Ono' from Da?vide then introduces soaring synths and various spectral nuances before Work Them Records producer and Blocaus resident Anetha's 'Acid Train' lives up to its name with an infectious 303 and raves stabs. Tying things together, Front Left Records' Elad Magdasi's 'Two Floors' closes off the release in an epic manner with thudding kicks and otherworldly melodies.\n\n ___\nDISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.\n\nhttps://www.facebook.com/hatecollective/\nor via email: hatemusic1@gmail.com\n\nFollow us on SOUNDCLOUD for exclusive podcast series:\nhttps://soundcloud.com/hate_music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XHyr6oBu5K8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XHyr6oBu5K8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XHyr6oBu5K8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XHyr6oBu5K8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XHyr6oBu5K8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XHyr6oBu5K8"
+                },
+                "videoOwnerChannelTitle": "HATE",
+                "videoOwnerChannelId": "UC6qQOTx9LuKMC5p2dbjmSRg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Cf7vyG6eD9FYh0e7naLPhq97ygI",
+            "id": "UkR5bENWa0NzdHVvNC53ODVKb3Nhd09yMA",
+            "snippet": {
+                "publishedAt": "2025-02-24T16:22:11Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Heden \u2014 Grave [SHVRS004]",
+                "description": "Support the label, buy it here:\nhttps://shivers-label.bandcamp.com/\n\nArtist: Heden \nTitle: Martha EP \nLabel: Shivers\nCatalogue: SHVRS004\nFormat: Digital\nGenre: Electronic\nStyle: #Techno\nRelease date: February 28, 2025\n\nTracklist:\n1. Heden - Martha\n2. Heden - C4\n3. Heden - Grave\n4. Heden - Martha (New Frames Remix)\n5. Heden - C4 (Billie Jo In A Trance Remix)\n6. Heden - Grave (Andree Bohlin Remix)\n\nFollow #Shivers here:\nhttps://soundcloud.com/shivers-label\nhttps://www.instagram.com/shivers_label/\nshivers.label@gmail.com\nhttps://linktr.ee/billie.jo\n\nFollow #Heden here:\nhttps://soundcloud.com/lord-house\nhttps://www.instagram.com/ca.heden/\n\n___\nDISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.\n\nCONTACT EMAIL: hatemusic1@gmail.com\n\nFollow us on INSTAGRAM and FACEBOOK for releases previews and news:\nhttps://www.instagram.com/hate_collective\nhttps://www.facebook.com/hatecollective/\n\nFollow us on SOUNDCLOUD for exclusive podcast series:\nhttps://soundcloud.com/hate_music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w85JosawOr0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w85JosawOr0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w85JosawOr0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/w85JosawOr0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/w85JosawOr0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "w85JosawOr0"
+                },
+                "videoOwnerChannelTitle": "HATE",
+                "videoOwnerChannelId": "UC6qQOTx9LuKMC5p2dbjmSRg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2tXXUK0I8GfP5fKK2wyvvLtHpKI",
+            "id": "UkR5bENWa0NzdHVvNC5vbl9kdVpNWG5sVQ",
+            "snippet": {
+                "publishedAt": "2024-10-12T04:45:02Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Techno \ud83d\udca3 Acid House \ud83d\udca3 Psy-Trance \ud83d\udca3 EDM - Droid",
+                "description": "A mixture of Techno and Pop music using Ableton Live",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/on_duZMXnlU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/on_duZMXnlU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/on_duZMXnlU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/on_duZMXnlU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/on_duZMXnlU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "on_duZMXnlU"
+                },
+                "videoOwnerChannelTitle": "Silas",
+                "videoOwnerChannelId": "UC5Bx7qQnD8qRhERO_seRYDQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HtmsqVsICrKluFP0SStttoIJ-cI",
+            "id": "UkR5bENWa0NzdHVvNC40bnAtUXo3TmJ6RQ",
+            "snippet": {
+                "publishedAt": "2021-02-26T15:45:00Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Nico Moreno - Purple Widow (Official Clip)",
+                "description": "Nico Moreno Purple Widow (Official Clip)\n\nLabel: Insolent Rave Records \n\nClip From: Freddy Ayen \n\nDancer: Anna Benamar & Mathis Scalici\n\n\nArtists: Nico Moreno \n\nFacebook:\nhttps://www.facebook.com/nicomorenomusic\n\nInstagram:\nhttps://www.instagram.com/nicomoreno_music/\n\nSoundcloud:\nsoundcloud.com/nicomorenomusic\n\nLabel: Insolent Rave Records \n\nFacebook:\nhttps://www.facebook.com/insolentraverecords\n\nInstagram:\nhttps://www.instagram.com/insolentrave_records/\n\nSoundcloud:\nhttps://soundcloud.com/insolentraverecords",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4np-Qz7NbzE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4np-Qz7NbzE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4np-Qz7NbzE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4np-Qz7NbzE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4np-Qz7NbzE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4np-Qz7NbzE"
+                },
+                "videoOwnerChannelTitle": "Nico Moreno",
+                "videoOwnerChannelId": "UCh7vpmXT9EKlFbGkLqT87vQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zbTtokkHsLfGVodxLrFr-bp0Pf8",
+            "id": "UkR5bENWa0NzdHVvNC5RbkF3N0RqZ2lzNA",
+            "snippet": {
+                "publishedAt": "2019-06-28T11:09:27Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Amelie Lens - Hypnotized (Joyhauser Remix)",
+                "description": "Buy-link: https://fanlink.to/AmelieLens-Hypnotized\n\nAmelie Lens - Hypnotized EP [SNDST063]\n\n1: Amelie Lens - Hypnotized\n2: Amelie Lens - Access\n3: Amelie Lens - Hypnotized (Joyhauser Remix)\n\nOne and a half years since her last outing on Second State, Amelie Lens returns to the label with her highly anticipated new 3-tracker, \u2018Hypnotized EP\u2018. Following up to the much acclaimed \u2018Basiel EP\u2019 issued in 2018 through her own imprint, Lenske, Amelie steps up right in time for the much busy festival season ahead with a pair of razor-sharp peaktime weapons, plus a nasty gabber-inflected remix from rising Belgian duo Joyhauser. With upcoming dates including performances at S\u00f3nar, Movement, Awakenings, Exit, Kappa Future and Sonus, needless to say these are bound to get dance floors on fire this summer.\n\nHaving triggered a massive response from the audience during her sets over the last year, the title track \u2019Hypnotized\u2018 breaks the ice on a fiercely pounding note. Flexing out the heavy kick artillery, brooding chord stabs and cascading snares while Amelie\u2019s delayed vox hooks steadily sink us into a whelming state of trance. Reaching for the most remote recesses of the dancers\u2019 minds, \u2018Access\u2019 revs up the engine a notch further with its psychoactive synthwaves, furling and swirling across full bars of louder than loud 909 thump. Adding their euphoric spin to the lead cut, \u2018Hypnotized\u2019, Joyhauser seal the deal with an all-out ravey anthem of a rework, custom-built for epic, warehouse-sized maneuvers and iron-pumping mid-set apexes. Shockwaves are coming.\n\nWritten and produced by Amelie Lens.\nRemix and additional production by Joyhauser.\nAll rights reserved to Second State.\n\n------\nOur vinyls & merch:\nhttps://secondstate.bandcamp.com/\n\nSign up for our newsletter:\nhttps://mailchi.mp/1d5d3ecc2af4/yt-newsletter-signup\n\nFollow us on:\nFacebook:  http://www.facebook.com/secondstate\nInstagram: http://www.instagram.com/secondstateaudio\nSoundcloud: https://soundcloud.com/secondstateaudio\n\n#Techno #SecondState",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QnAw7Djgis4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QnAw7Djgis4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QnAw7Djgis4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QnAw7Djgis4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QnAw7Djgis4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QnAw7Djgis4"
+                },
+                "videoOwnerChannelTitle": "Second State",
+                "videoOwnerChannelId": "UCAwvBWsjOPYg8SLhBCnn0ow"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uaVEyyB65OuF4I6GY0OUh5aVHqs",
+            "id": "UkR5bENWa0NzdHVvNC5wQzlmNW8wY2NYQQ",
+            "snippet": {
+                "publishedAt": "2024-03-21T10:04:14Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Unwind Your Mind",
+                "description": "Provided to YouTube by Base79\n\nUnwind Your Mind \u00b7 Estefano Haze\n\nUnwind Your Mind\n\n\u2117 IONO Music\n\nReleased on: 2024-03-22\n\nAuto-generated by YouTube.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pC9f5o0ccXA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pC9f5o0ccXA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pC9f5o0ccXA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pC9f5o0ccXA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pC9f5o0ccXA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pC9f5o0ccXA"
+                },
+                "videoOwnerChannelTitle": "EstefanO Haze - Topic",
+                "videoOwnerChannelId": "UCtTkwWc-bKo7X94pH-oNuhw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PNLPU2Qu8HhVE2fyyqO4kTEMwVk",
+            "id": "UkR5bENWa0NzdHVvNC5YQnd4a2tkckZMOA",
+            "snippet": {
+                "publishedAt": "2024-02-18T09:16:47Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "HARDTECHNO Kardenal - Transient (Official)",
+                "description": "Transient - Digital Format - Out on Eclipse Recordings on 16 February 2024 (NoResponse EP).\n\nGrab your copy here: https://www.beatport.com/it/release/noresponse-ep/4415020\n\nIf you want to support Kardenal subscribe to my channel and follow me on other platforms:\n\nInstagram: https://www.instagram.com/kardenal_music\nSoundcloud: https://soundcloud.com/kardenalmusic\nTiktok: https://www.tiktok.com/@kardenal.music\n\nDancers (IG Profile):\n@BEE_MOo\n@diemo.seiss\n@christina.110804\n\nVideo Shoot: Dxmaa.x\nThe use of videos are granted with permission of the creator",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XBwxkkdrFL8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XBwxkkdrFL8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XBwxkkdrFL8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XBwxkkdrFL8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XBwxkkdrFL8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XBwxkkdrFL8"
+                },
+                "videoOwnerChannelTitle": "KARDENAL",
+                "videoOwnerChannelId": "UCJsbdYT8PZ56JoxL2Bgenfg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CbhA0AABB_M3pnv_E1TT5BeWKyg",
+            "id": "UkR5bENWa0NzdHVvNC5DSHNuclZQM29DMA",
+            "snippet": {
+                "publishedAt": "2017-01-20T07:13:32Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Schwefelgelb - Es zieht mich [a+w XI]",
+                "description": "Bought@https://aufnahmeundwiedergabe.bandcamp.com/album/dahinter-das-gesicht\n\nTracklist:\n1. Es zieht mich\n2. Aus dem Hals der Flasche\n3. Fokus\n4. Durch die Haare Die Stirn\n\n[a+w XI] \nSchwefelgelb - Dahinter das Gesicht 12\" \nlimited edition of 500 copies \nwww.aufnahmeundwiedergabe.de/wiedergaben\n\nNOTE: No copyrights infrigments intended, uploaded in low quality just for promotional purpose to respect labels and artists involved.  Will remove immediately on request via email: a1a2b1b2channel@gmail.com or via private message on Youtube. Buy links in the description.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CHsnrVP3oC0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CHsnrVP3oC0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CHsnrVP3oC0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CHsnrVP3oC0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CHsnrVP3oC0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CHsnrVP3oC0"
+                },
+                "videoOwnerChannelTitle": "A1A2B1B2",
+                "videoOwnerChannelId": "UCj_4c-JWo0u25RjZmC3D_zQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NeWO-ugB3hnS0qW_vHsjG9sPHKg",
+            "id": "UkR5bENWa0NzdHVvNC5vVF9WYnUyRWFXaw",
+            "snippet": {
+                "publishedAt": "2025-01-31T07:38:13Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Valar - Waking Up",
+                "description": "Prepare to dive into the mesmerizing world of Valar, the debut project from Netherlands-based audio engineer and producer Ben Siegal. Drawing inspiration from early electronic icons like The Prodigy, Jean-Michel Jarre, and The Chemical Brothers, and later refining his sound under the influence of Zen Mechanics, Infected Mushroom, and Headroom, Valar emerges as a bold new voice in the psychedelic trance scene. Valars debut EP Synthient, a stunning two-track release, is a masterclass in sonic storytelling, seamlessly blending the transcendental landscapes of progressive trance with the high-energy dynamism of full-on psychedelia. With hypnotic rhythms, intricate melodies, and electrifying textures, this debut offering is a journey through sound that promises to leave a lasting impression on dancefloors and beyond. Welcome to the world of Valar.\n\nValar - Waking Up, released on 31.01.2025. by Iboga Records - IBOGADIGITAL951\n\nGet it: https://www.beatport.com/release/synthient/4896548\n\nAlso check out:\nHeadroom - The Big Banger: https://youtu.be/7YzDLvlozkk\n\nIboga - interviews & special videos: http://bit.ly/1NB41oZ\nIboga - Live Acts: http://bit.ly/1L4xLUs\n\nMore Iboga:\nhttp://www.iboga.dk/\nhttps://www.facebook.com/ibogarecords\nhttps://soundcloud.com/ibogarecords\nhttp://www.beatport.com/label/iboga-records/919\nhttps://twitter.com/IbogaRecords\n\nManaged by the two Danish DJs Emok & Banel since the mid nineties, Iboga Records today are considered the leading label of the global progressive and trance scene. Not limiting itself to one specific genre, the label has been responsible for hundreds of releases in a broad spectrum of electronic music. The main genres being Psy-trance, Techno and Downbeat Electronica. The label has built through the years a strong reputation as a quality brand, housing some of the leading artists of its genre, like Ace Ventura, Liquid Soul, Perfect Stranger, Captain Hook, Ticon, Son Kite and many others.\n\nThis channel is powered by Trancentral.\nSubscribe for updates: http://bit.ly/TrancentralSubscribe\n\n#psytrance #trance #trancemusic #psychedelic #ibogarecords #Valar",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oT_Vbu2EaWk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oT_Vbu2EaWk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oT_Vbu2EaWk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oT_Vbu2EaWk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oT_Vbu2EaWk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oT_Vbu2EaWk"
+                },
+                "videoOwnerChannelTitle": "Iboga Records Music",
+                "videoOwnerChannelId": "UCK3vmdxfttWSGm4P-31laEQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "X2LHpN9CGtJzP5nu-yNK4Xwr5kU",
+            "id": "UkR5bENWa0NzdHVvNC52eEROc090M2NaQQ",
+            "snippet": {
+                "publishedAt": "2020-12-06T17:41:45Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Vieze Asbak - Meet Her At The Love Parade",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vxDNsOt3cZA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vxDNsOt3cZA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vxDNsOt3cZA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vxDNsOt3cZA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vxDNsOt3cZA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vxDNsOt3cZA"
+                },
+                "videoOwnerChannelTitle": "Vieze Asbak",
+                "videoOwnerChannelId": "UCXNjYr3ua1z3QdXMeG7GrAg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yReLX52qZie0vwB7V7Ata34-dBA",
+            "id": "UkR5bENWa0NzdHVvNC42aXl5eDFRY1AySQ",
+            "snippet": {
+                "publishedAt": "2017-02-18T21:36:49Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Nico Moreno - Don't Call Your Mom",
+                "description": "Free Link:\nhttps://soundcloud.com/nicomorenomusic/dont-call-your-mom\n\nArtist: Nico Moreno \nTrack: Don't Call Your Mom\n\nFollow Nico Moreno:\nFB - https://www.facebook.com/nicomorenomusic/\nSC - https://soundcloud.com/nicomorenomusic\n\nFollow TechnoCartel: \nFB - https://www.facebook.com/groups/661159060713083/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6iyyx1QcP2I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6iyyx1QcP2I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6iyyx1QcP2I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6iyyx1QcP2I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6iyyx1QcP2I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6iyyx1QcP2I"
+                },
+                "videoOwnerChannelTitle": "Techno Cartel",
+                "videoOwnerChannelId": "UCmezV9ultue--YEFK8efziQ"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VfA3UX61y27B1CePpMVfY7nnmBk",
+            "id": "UkR5bENWa0NzdHVvNC5aeFFfTFl5S0lHTQ",
+            "snippet": {
+                "publishedAt": "2025-02-21T21:24:36Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Kova - Bat Track",
+                "description": "FOLLOW ME! \nLINKS: https://lnk.bio/kovabr",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZxQ_LYyKIGM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZxQ_LYyKIGM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZxQ_LYyKIGM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZxQ_LYyKIGM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZxQ_LYyKIGM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZxQ_LYyKIGM"
+                },
+                "videoOwnerChannelTitle": "Kova",
+                "videoOwnerChannelId": "UCGLlyQCM-jObayXo7eaw1Rw"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8Mst9RaljoQGqKpdVmnsvhM9IUI",
+            "id": "UkR5bENWa0NzdHVvNC5LLUNsV1RNdHQtdw",
+            "snippet": {
+                "publishedAt": "2025-02-24T16:21:47Z",
+                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
+                "title": "Heden \u2014 C4 (Billie Jo In A Trance Remix) [SHVRS004]",
+                "description": "Support the label, buy it here:\nhttps://shivers-label.bandcamp.com/\n\nArtist: Heden \nTitle: Martha EP \nLabel: Shivers\nCatalogue: SHVRS004\nFormat: Digital\nGenre: Electronic\nStyle: #Techno\nRelease date: February 28, 2025\n\nTracklist:\n1. Heden - Martha\n2. Heden - C4\n3. Heden - Grave\n4. Heden - Martha (New Frames Remix)\n5. Heden - C4 (Billie Jo In A Trance Remix)\n6. Heden - Grave (Andree Bohlin Remix)\n\nFollow #Shivers here:\nhttps://soundcloud.com/shivers-label\nhttps://www.instagram.com/shivers_label/\nshivers.label@gmail.com\nhttps://linktr.ee/billie.jo\n\nFollow #Heden here:\nhttps://soundcloud.com/lord-house\nhttps://www.instagram.com/ca.heden/\n\n___\nDISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.\n\nCONTACT EMAIL: hatemusic1@gmail.com\n\nFollow us on INSTAGRAM and FACEBOOK for releases previews and news:\nhttps://www.instagram.com/hate_collective\nhttps://www.facebook.com/hatecollective/\n\nFollow us on SOUNDCLOUD for exclusive podcast series:\nhttps://soundcloud.com/hate_music",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K-ClWTMtt-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K-ClWTMtt-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K-ClWTMtt-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K-ClWTMtt-w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K-ClWTMtt-w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "YouTube",
+                "playlistId": "RDylCVkCstuo4",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "K-ClWTMtt-w"
+                },
+                "videoOwnerChannelTitle": "HATE",
+                "videoOwnerChannelId": "UC6qQOTx9LuKMC5p2dbjmSRg"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RZ6240tXgZGac7XLDYZc9iHd3UY",
             "id": "UkR5bENWa0NzdHVvNC5hSGs2TlVSSWZ0VQ",
             "snippet": {
                 "publishedAt": "2024-12-06T11:00:01Z",
@@ -1718,7 +1859,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 36,
+                "position": 39,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "aHk6NURIftU"
@@ -1729,7 +1870,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "RZ3y43ekg0OByvLOXPVZmxmIwP0",
+            "etag": "BV1VtjzUFGiDgOvma6WDyCtO5cE",
             "id": "UkR5bENWa0NzdHVvNC5YaE5MQnAzMzdzbw",
             "snippet": {
                 "publishedAt": "2021-03-24T15:38:39Z",
@@ -1765,7 +1906,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 37,
+                "position": 40,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "XhNLBp337so"
@@ -1776,7 +1917,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "egv-v2ACjqMn-X56Y2i0ZCqllds",
+            "etag": "3LIlHkR9JEcT6JeA6SHXrthSNYs",
             "id": "UkR5bENWa0NzdHVvNC5uVjhvQTF4dHBUUQ",
             "snippet": {
                 "publishedAt": "2017-02-11T14:03:52Z",
@@ -1802,7 +1943,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 38,
+                "position": 41,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "nV8oA1xtpTQ"
@@ -1813,7 +1954,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0vH9wVznJhS6lzYde-F3J9czT18",
+            "etag": "ETymE8s47ECArGGFkaFbdaXr2Dw",
             "id": "UkR5bENWa0NzdHVvNC5nMmxkc2JQWGtERQ",
             "snippet": {
                 "publishedAt": "2024-03-22T17:00:08Z",
@@ -1849,7 +1990,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 39,
+                "position": 42,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "g2ldsbPXkDE"
@@ -1860,46 +2001,46 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "HVrNJLS3TylwivXIBU15ELfClV8",
-            "id": "UkR5bENWa0NzdHVvNC5QX2UzcmpIc0Fnaw",
+            "etag": "Ulr5w3wJOMTLJ8W0qIZZqCq5LFE",
+            "id": "UkR5bENWa0NzdHVvNC5ZbXlyakdaM0hKOA",
             "snippet": {
-                "publishedAt": "2025-01-29T10:47:35Z",
+                "publishedAt": "2025-01-13T09:29:59Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Bj\u00f6rn Torwellen - Binary Fate [CLR124]",
-                "description": "Support the label, buy it here:\nhttps://lnk.to/CLR124\nhttps://clrofficial.bandcamp.com/\n\nBjo\u0308rn Torwellen debuts on CLR with the \u2018Binary Fate\u2019 EP. It marks the first release of 2025 for Chris Liebing\u2019s label.\n\nArtist: Bj\u00f6rn Torwellen\nTitle: Binary Fate EP\nLabel: CLR\nCatalogue: CLR124\nGenre: Electronic\nStyle: #Techno\nRelease date: January 31, 2025\n\nTracklist:\n1. Bj\u00f6rn Torwellen - Binary Fate\n2. Bj\u00f6rn Torwellen - Fear Of The Unknown\n3. Bj\u00f6rn Torwellen - Lost in Transmission\n\nFollow #Bj\u00f6rnTorwellen here:\nhttps://soundcloud.com/b-t\nhttps://www.instagram.com/torwellen\nhttps://www.facebook.com/torwellen\n\nFollow #CLR here:\nhttps://chrisliebing.com/\nhttps://soundcloud.com/clr\nhttps://www.facebook.com/CLR.Official\nhttps://twitter.com/ChrisLiebing\n\nBjo\u0308rn Torwellen\u2019s \u2018Binary Fate\u2019 EP kickstarts CLR\u2019s 2025 with three pounding Techno tracks 31st January 2025. From the razor-sharp percussion and raw bassline power in title track \u2018Binary Fate\u2019, to the cavernous dub hits and shadowy atmospheres of \u2018Fear of the Unknown\u2019, before closing on the mind-warping signals of \u2018Lost in Transmission\u2019 - Torwellen\u2019s \u2018Binary Fate\u2019 is yet another supersized debut on the seminal CLR.\n\nFollowing Bjo\u0308rn Torwellen\u2019s appearance on the CLR podcast in June 2024, the Cologne-based artist now definitively joins Chris Liebing\u2019s label with the \u2018Binary Fate\u2019 three-tracker this January. With a career spanning over two decades, Bjo\u0308rn is known for his discography on labels like De-Konstrukt, Nachtstrom Schallplatten, nonlinear systems, and now CLR.\n\nFounded by influential techno lynchpin Chris Liebing in 1999 and reemerging in 2021 after a five-year hiatus, Create Learn Repeat (CLR) has hosted a range of artists like Shlomi Aber, Dubfire, Flug, Bjarki, DJ Dextro and more while also focusing on developing newer acts in the scene such as Risa Taniguchi, The Southern, and Klint.\n\n___\nDISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.\n\nCONTACT EMAIL: hatemusic1@gmail.com\n\nFollow us on INSTAGRAM and FACEBOOK for releases previews and news:\nhttps://www.instagram.com/hate_collective\nhttps://www.facebook.com/hatecollective/\n\nFollow us on SOUNDCLOUD for exclusive podcast series:\nhttps://soundcloud.com/hate_music",
+                "title": "Eman - Shepha [SK11X029]",
+                "description": "Support the label, buy it here:\nhttps://skeleven.bandcamp.com/album/kapara\nhttps://www.deejay.de/Eman_Kapara_SK11X029_Vinyl__1113800\n\nArtist: Eman\nTitle: Kapara\nLabel: SK_eleven\nCatalogue: SK11X029\nFormat: 12\" Vinyl\nGenre: Electronic\nStyle: #Techno\nRelease date: January 13, 2025\n\nW&P by Emmanuel Gunther\nMastered by Beau Thomas @ 1087 Mastering, London\nAll rights reserved SK_eleven 2025\n\nFollow #Eman here:\nhttps://soundcloud.com/eman_lust\nhttps://www.instagram.com/manu_eman_/\n\nFollow #SK_Eleven here:\nhttps://soundcloud.com/sk_eleven\nhttps://www.facebook.com/SKeleventechno/\nhttps://www.instagram.com/sk_eleven_11/\n\nTracklist:\nA1: Kapara\nA2: Midnight Bath\nB1: Pink Marble\nB2: Shepha\n\n___\nDISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.\n\nCONTACT EMAIL: hatemusic1@gmail.com\n\nFollow us on INSTAGRAM and FACEBOOK for releases previews and news:\nhttps://www.instagram.com/hate_collective\nhttps://www.facebook.com/hatecollective/\n\nFollow us on SOUNDCLOUD for exclusive podcast series:\nhttps://soundcloud.com/hate_music",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/P_e3rjHsAgk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/YmyrjGZ3HJ8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/P_e3rjHsAgk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YmyrjGZ3HJ8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/P_e3rjHsAgk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YmyrjGZ3HJ8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/P_e3rjHsAgk/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YmyrjGZ3HJ8/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/P_e3rjHsAgk/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/YmyrjGZ3HJ8/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 40,
+                "position": 43,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "P_e3rjHsAgk"
+                    "videoId": "YmyrjGZ3HJ8"
                 },
                 "videoOwnerChannelTitle": "HATE",
                 "videoOwnerChannelId": "UC6qQOTx9LuKMC5p2dbjmSRg"
@@ -1907,7 +2048,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "bm7aWIRnO3fweS0L_B7nCdPd6ho",
+            "etag": "0-ldhQ3Bwt-b9ucrrA03uUPmVtE",
             "id": "UkR5bENWa0NzdHVvNC5sLXZTbDdCdXhHcw",
             "snippet": {
                 "publishedAt": "2017-04-18T10:41:46Z",
@@ -1943,7 +2084,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 41,
+                "position": 44,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "l-vSl7BuxGs"
@@ -1954,7 +2095,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "vRxOyiMQcnLUE_EVGqeyGke1DB8",
+            "etag": "z0Mzy039PY8s9SI6YegxVd0wROs",
             "id": "UkR5bENWa0NzdHVvNC5wNldPMk1wbXFpQQ",
             "snippet": {
                 "publishedAt": "2018-12-22T13:27:48Z",
@@ -1990,7 +2131,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 42,
+                "position": 45,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "p6WO2MpmqiA"
@@ -2001,54 +2142,54 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "4nR0DXY3z-tPsg4zPkrDXKWBSGE",
-            "id": "UkR5bENWa0NzdHVvNC5JOEh3U19ra0pWbw",
+            "etag": "9y1ufDxeML8DLzg5Dspcs9NMOq4",
+            "id": "UkR5bENWa0NzdHVvNC5QX2UzcmpIc0Fnaw",
             "snippet": {
-                "publishedAt": "2025-02-21T08:00:14Z",
+                "publishedAt": "2025-01-29T10:47:35Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "HardKnights - One (TeknoGeneration Remix Edit) [VMZ013]",
-                "description": "SUPPORT ARTIST AND LABEL, BUY IT HERE:\nBeatport: https://www.beatport.com/release/one/4938782\n\nHardKnights\nhttps://www.beatport.com/artist/hardknights/392750\nhttps://open.spotify.com/artist/26bg86D9ymkbpWbR8wFlyY\nhttps://www.instagram.com/hardknights/\nhttps://www.facebook.com/hardmfkr\nhttps://soundcloud.com/hardknights\nhttps://www.youtube.com/channel/UCtcy04IhXYsGONa6vBIeG0A\n\nTeknoGeneration\nhttps://www.beatport.com/artist/teknogeneration/835222\nhttps://open.spotify.com/artist/2ivCQBJJHMqzk7DVTZpqod\nhttps://www.instagram.com/teknogeneration/\nhttps://www.facebook.com/teknogeneration/\nhttps://soundcloud.com/teknogeneration-official\nhttps://www.youtube.com/channel/UCb2k9VXcykBlz2CtuPY4BRA\n\nVTMNZ Records\nhttps://vtmnz.com/\nhttps://www.instagram.com/vtmnzrecords/\nhttps://www.facebook.com/vtmnzrecordz\nhttps://soundcloud.com/vtmnzrecords\nhttps://www.youtube.com/@VTMNZRecords\n\nDisclaimers: FingR86 does not own the rights to this content. My aim is to promote the music that I love. If any of the legal owners does not want their music on YouTube please send me a message and I will remove on request. \nhttps://www.facebook.com/FingR86/",
+                "title": "Bj\u00f6rn Torwellen - Binary Fate [CLR124]",
+                "description": "Support the label, buy it here:\nhttps://lnk.to/CLR124\nhttps://clrofficial.bandcamp.com/\n\nBjo\u0308rn Torwellen debuts on CLR with the \u2018Binary Fate\u2019 EP. It marks the first release of 2025 for Chris Liebing\u2019s label.\n\nArtist: Bj\u00f6rn Torwellen\nTitle: Binary Fate EP\nLabel: CLR\nCatalogue: CLR124\nGenre: Electronic\nStyle: #Techno\nRelease date: January 31, 2025\n\nTracklist:\n1. Bj\u00f6rn Torwellen - Binary Fate\n2. Bj\u00f6rn Torwellen - Fear Of The Unknown\n3. Bj\u00f6rn Torwellen - Lost in Transmission\n\nFollow #Bj\u00f6rnTorwellen here:\nhttps://soundcloud.com/b-t\nhttps://www.instagram.com/torwellen\nhttps://www.facebook.com/torwellen\n\nFollow #CLR here:\nhttps://chrisliebing.com/\nhttps://soundcloud.com/clr\nhttps://www.facebook.com/CLR.Official\nhttps://twitter.com/ChrisLiebing\n\nBjo\u0308rn Torwellen\u2019s \u2018Binary Fate\u2019 EP kickstarts CLR\u2019s 2025 with three pounding Techno tracks 31st January 2025. From the razor-sharp percussion and raw bassline power in title track \u2018Binary Fate\u2019, to the cavernous dub hits and shadowy atmospheres of \u2018Fear of the Unknown\u2019, before closing on the mind-warping signals of \u2018Lost in Transmission\u2019 - Torwellen\u2019s \u2018Binary Fate\u2019 is yet another supersized debut on the seminal CLR.\n\nFollowing Bjo\u0308rn Torwellen\u2019s appearance on the CLR podcast in June 2024, the Cologne-based artist now definitively joins Chris Liebing\u2019s label with the \u2018Binary Fate\u2019 three-tracker this January. With a career spanning over two decades, Bjo\u0308rn is known for his discography on labels like De-Konstrukt, Nachtstrom Schallplatten, nonlinear systems, and now CLR.\n\nFounded by influential techno lynchpin Chris Liebing in 1999 and reemerging in 2021 after a five-year hiatus, Create Learn Repeat (CLR) has hosted a range of artists like Shlomi Aber, Dubfire, Flug, Bjarki, DJ Dextro and more while also focusing on developing newer acts in the scene such as Risa Taniguchi, The Southern, and Klint.\n\n___\nDISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.\n\nCONTACT EMAIL: hatemusic1@gmail.com\n\nFollow us on INSTAGRAM and FACEBOOK for releases previews and news:\nhttps://www.instagram.com/hate_collective\nhttps://www.facebook.com/hatecollective/\n\nFollow us on SOUNDCLOUD for exclusive podcast series:\nhttps://soundcloud.com/hate_music",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/I8HwS_kkJVo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/P_e3rjHsAgk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/I8HwS_kkJVo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/P_e3rjHsAgk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/I8HwS_kkJVo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/P_e3rjHsAgk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/I8HwS_kkJVo/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/P_e3rjHsAgk/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/I8HwS_kkJVo/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/P_e3rjHsAgk/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 43,
+                "position": 46,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "I8HwS_kkJVo"
+                    "videoId": "P_e3rjHsAgk"
                 },
-                "videoOwnerChannelTitle": "FingR86",
-                "videoOwnerChannelId": "UCF3yFnI5Ekvc-Wd9JTMRI6g"
+                "videoOwnerChannelTitle": "HATE",
+                "videoOwnerChannelId": "UC6qQOTx9LuKMC5p2dbjmSRg"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "s939KBmPOJoSXNjxLsD9oOL4ugs",
+            "etag": "LQntvkVMCqWM5tIJCz-FE5h937Q",
             "id": "UkR5bENWa0NzdHVvNC44ZGVyY1piVDNUdw",
             "snippet": {
                 "publishedAt": "2023-02-02T10:01:08Z",
@@ -2084,7 +2225,7 @@
                 },
                 "channelTitle": "YouTube",
                 "playlistId": "RDylCVkCstuo4",
-                "position": 44,
+                "position": 47,
                 "resourceId": {
                     "kind": "youtube#video",
                     "videoId": "8dercZbT3Tw"
@@ -2095,174 +2236,38 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Nt79IHdpCKGlOwvMm3N6eIkXAhU",
-            "id": "UkR5bENWa0NzdHVvNC4wVUdfajhHYlRCMA",
+            "etag": "EpIypDM3za3Q9FMomuYuyYz25dw",
+            "id": "UkR5bENWa0NzdHVvNC5NcjF1Y2l5V1NtSQ",
             "snippet": {
-                "publishedAt": "2025-02-20T16:00:01Z",
+                "publishedAt": "2025-02-23T23:00:14Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "(free) post punk + darkwave + coldwave type beat - \"sleep paralysis\"",
-                "description": "\ud83d\udcec | Suscribe to help me grow!\n\ud83d\udcb3 | Purchase Link: https://bsta.rs/tREKbh (Buy 2, Get 1 Free!)\n\ud83d\udcf8 | Instagram: @clioenllamas\n\ud83d\udce5 | Contact Mail: mgmt@clioenllamas.com\n\n\nProd. by \u21e8 @clioenllamas + \u202a\u202a@BeatsbyDutchRevz \nBPM \u21e8 151BPM + GMin\n\n\n\u2757\ufe0f USAGE TERMS \u2757\ufe0f\nFREE FOR NON-PROFIT/ DEMO USE ONLY.\nYOU MUST PURCHASE A LEASE FOR PROFIT USE.\nDO NOT USE CONTENT ID.\n\n.\n\n\n\n#postpunktypebeat \n#darkwavetypebeat \n#sovietwavetypebeat\n\n(free) post punk + darkwave + coldwave type beat - \"sleep paralysis\"\n\n\u25b5tags\u25b5\nmolchat doma type beat,post punk type beat,free molchat doma type beat, molchat doma type instrumental, post punk instrumental,joy division type beat,\u043c\u043e\u043b\u0447\u0430\u0442 \u0434\u043e\u043c\u0430 type beat,alternative rock type beat, boy harsher type beat, gvllow type beat, russian post punk type beat,russian post punk instrumental,pixies type beat, pixies type instrumental,russian post punk type instrumental, doomer type beat, dark wave type beat, goth type beat, gothic rock type beat, poorstacy type beat,dreampop type beat, shoegaze type beat, the drums type beat,prod grayskies,oddly shrugs type beat, the cure type beat, alt rock type beat, new wave type beat, sad indie rock type beat, bedroom type beat, ssshhhiiittt type beat, indie rock type beat, indie punk type beat, pl",
+                "title": "457RAL - Sat By",
+                "description": "Life moves in circles, but you sat watching it pass you by. \n\nMy new album\u201cCarousel\u201d is out \ud83e\udee0\n\n\u2022YouTube Music: https://music.youtube.com/playlist?list=OLAK5uy_naNQ1aAsmRxhw3GcobarTl-0VrcTlQja0&si=J4fjRGbpSbaN3H4Q\n\n\u2022Spotify: https://open.spotify.com/album/5bOoi9dqi3rhfY9q2rMXhI?si=9UZKvCU9SZ63-y5DuEGG8A\n\n\u2022Apple Music: https://music.apple.com/pl/album/carousel/1794146326\n\n\n---------------------\n\nMusic\n457RAL - Sat By \n\n\n\u2022YouTube Music: https://music.youtube.com/watch?v=aOJPBhlwqv4&si=40LmAPHsvOL1Heod\n\n\u2022Spotify: https://open.spotify.com/track/5xrCZyt9QMS73tFInfMeYf?si=aM9Ai3QYRjeQtDfGmPwneA&context=spotify%3Aalbum%3A5bOoi9dqi3rhfY9q2rMXhI\n\n\u2022Apple Music: https://music.apple.com/pl/album/sat-by/1794146326?i=1794146454\n\n---------------------\n\nSocials:\n\nhttps://linktr.ee/457RAL\n\n\n---------------------\n\nOn the carousel of feelings, I finally spin alone,",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/0UG_j8GbTB0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Mr1uciyWSmI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/0UG_j8GbTB0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Mr1uciyWSmI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/0UG_j8GbTB0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Mr1uciyWSmI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/0UG_j8GbTB0/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Mr1uciyWSmI/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/0UG_j8GbTB0/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Mr1uciyWSmI/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 45,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "0UG_j8GbTB0"
-                },
-                "videoOwnerChannelTitle": "CLIOENLLAMAS",
-                "videoOwnerChannelId": "UC2M-0EEWKdY1iBAvvagimkA"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "pJrZZRBZmNzpYF94ikWCjc__HQc",
-            "id": "UkR5bENWa0NzdHVvNC5NdUk5cTA3S2NKMA",
-            "snippet": {
-                "publishedAt": "2016-07-06T18:49:23Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "999999999 - 000000003 [NTN001]",
-                "description": "Follow #999999999 here:\nhttps://www.instagram.com/999999999_live/\nhttps://soundcloud.com/999999999music/\nhttps://www.facebook.com/999999999music/\nhttps://www.residentadvisor.net/dj/999999999\nhttps://999999999music.bandcamp.com\nhttps://www.discogs.com/artist/3693507-999999999\n\nBUY THE TRACK HERE:\nhttp://www.deejay.de/NTN001_-_999999999_-_000000002_Ep_-_12inch__232098\nhttp://www.decks.de/t/999999999-000000002_ep/c7f-x3\nhttps://999999999music.bandcamp.com/album/000000002\nhttp://www.triplevision.nl/release/NTN001/\nhttp://www.juno.co.uk/products/999999999-000000002-ep/615060-01/\nhttp://www.redeyerecords.co.uk/vinyl/74894-ntn001-999999999-000000002-ep\nhttps://www.discogs.com/999999999-000000002/release/8722558\n\nArtist: 999999999 \nTitle: 000000002\nLabel: NineTimesNine \u200e\nCatalogue: NTN001\nFormat: Vinyl, 12\", (digital pre-order on bandcamp only) \nCountry: Germany\nReleased: 01 July 2016\nGenre: Electronic\nStyle: Techno, Acid\n\nMysterious duo 999999999 finally make their debut on their own new label, NineTimesNine, delivering three hypnotic and deadly acid techno stormers. Berghain anthem!\n\nFollow 999999999:\nhttps://www.facebook.com/999999999music/\nhttps://soundcloud.com/999999999music\nhttps://www.instagram.com/999999999_live/\nhttps://www.residentadvisor.net/dj/999999999\n\n ___\nDISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.  All mixes are uploaded with original links in description to give credits to the original uploader.\n\nIf either label, artist or third party copyright holder do not agree with their material being uploaded please contact us on Facebook: https://www.facebook.com/hatecollective/\nor via email: hatemusic1@gmail.com",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/MuI9q07KcJ0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/MuI9q07KcJ0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/MuI9q07KcJ0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/MuI9q07KcJ0/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/MuI9q07KcJ0/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 46,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "MuI9q07KcJ0"
-                },
-                "videoOwnerChannelTitle": "HATE",
-                "videoOwnerChannelId": "UC6qQOTx9LuKMC5p2dbjmSRg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "dZL74OxlONGTGtoRTy9Uf2Uj2AY",
-            "id": "UkR5bENWa0NzdHVvNC5FbFZLREplYUMtQQ",
-            "snippet": {
-                "publishedAt": "2022-11-10T10:06:42Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Das Ist Wellness",
-                "description": "Provided to YouTube by Triple Vision Record Distribution\n\nDas Ist Wellness \u00b7 Schwefelgelb\n\nWhirlpool-Gedanken\n\n\u2117 2022 n-PLEX\n\nReleased on: 2022-11-11\n\nAuto-generated by YouTube.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ElVKDJeaC-A/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ElVKDJeaC-A/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ElVKDJeaC-A/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ElVKDJeaC-A/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/ElVKDJeaC-A/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
-                },
-                "channelTitle": "YouTube",
-                "playlistId": "RDylCVkCstuo4",
-                "position": 47,
-                "resourceId": {
-                    "kind": "youtube#video",
-                    "videoId": "ElVKDJeaC-A"
-                },
-                "videoOwnerChannelTitle": "Schwefelgelb - Topic",
-                "videoOwnerChannelId": "UCjP6MNyghCMpiyjGNuBb9Sg"
-            }
-        },
-        {
-            "kind": "youtube#playlistItem",
-            "etag": "qh1QzOu2BpoCMCnoPHOkRmn3YSk",
-            "id": "UkR5bENWa0NzdHVvNC5KU3lTT0VWN2dzNA",
-            "snippet": {
-                "publishedAt": "2021-07-06T15:00:35Z",
-                "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Sara Landry - Skate [RAWSH02]",
-                "description": "FREE DOWNLOAD: https://rawppl.bandcamp.com/album/raw-summer-hits-ii-special-edits\nSoundcloud: https://fanlink.to/RAWSH02\n\nArtist: Various Artists\nTitle: RAW SUMMER HITS II \nLabel: RAW\nCatalogue: [RAWSH02]\nFormat: Digital\nGenre: Electronic\nStyle: Techno\nRelease date: 5th July 2021\nMastering: Charles Accarisi, Znzl\nArtwork: Antoine Zek\n\nTracklist:\n\n1. Chl\u00e4r - Magalenha\n2. Hadone - Violent Dream\n3. Sara Landry - Skate\n4. BXTR - Neo Paradise\n5. JKS - Get Crackin'\n6. Blame The Mono - Bleed\n7. Jan Vercauteren - Preservation Bias\n8. Mercury 200 - I Know That You Know\n9. Narciss - Physical\n10. Less Distress & Nastya Zimens - Moon-Raker\n11. quest?onmarq - Like This\n12. Trudge - I Feel You\n13. Dist - Distortion\n14. Franck - Get Into The Groove \n15. Bours? - DVNO\n16. DJ Caline - Blue Saturday\n17. TDJ - Raved 2 Death\n18. Jacidorex - Love Parade\n19. Rezystor - Sonne\n20. DYEN -. Remember Me\n21. Lucinee - Love Game (Gaga Rave Tool)\n22. Geerson - Music\n23. Varya Karpova - Chase The Sun\n24. Cassie Raptor - Feuer Frei! (190BPM Edit)\n\nOnce again, we reunited a solid list of top producers to give their own interpretation of a track of their choice.\n\nIn this edition, you\u2019ll find 24 tracks oscillating between different sub-genres from industrial techno to sad grooves and cheesy vibes. Everyone should find his own Summer Hits into it. \n\nAfter a tough period for the whole scene, it\u2019s the perfect moment to add positive vibes into our lives.\nSo feel free to listen to this great playlist without moderation for your melancholic / fun / hard / energetic or sweaty summer.\n____________\n\nRAW\nWebsite: https://raw-people.com\nFacebook: https://facebook.com/rawppl\nInstagram: https://instagram.com/rawppl\nSoundcloud: https://soundcloud.com/rawppl\nYoutube: https://youtube.com/c/RAWppl\nBandcamp: https://rawppl.bandcamp.com\nSpotify: https://bit.ly/rawpeople",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/JSySOEV7gs4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/JSySOEV7gs4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/JSySOEV7gs4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/JSySOEV7gs4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
                     }
                 },
                 "channelTitle": "YouTube",
@@ -2270,44 +2275,44 @@
                 "position": 48,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "JSySOEV7gs4"
+                    "videoId": "Mr1uciyWSmI"
                 },
-                "videoOwnerChannelTitle": "RAW",
-                "videoOwnerChannelId": "UCVYRGoaz1vOWJzzScbwcUQw"
+                "videoOwnerChannelTitle": "457RAL",
+                "videoOwnerChannelId": "UCMkcCybUGeRpruqeNIcwKOw"
             }
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6XLr-r4DGhf9SYcH855SrKcDrAE",
-            "id": "UkR5bENWa0NzdHVvNC44VHk3cWlBbEkySQ",
+            "etag": "WM4qU_pOrB3hOBp2IZ5Z6dr5ob4",
+            "id": "UkR5bENWa0NzdHVvNC5wRUpqeVlOZE1lRQ",
             "snippet": {
-                "publishedAt": "2016-02-09T20:14:42Z",
+                "publishedAt": "2025-02-24T16:21:35Z",
                 "channelId": "UCBR8-60-B28hp2BmDPdntcQ",
-                "title": "Boston 168 - Oblivion [ODDEVEN004]",
-                "description": "Support the label and artists, buy it here:\nhttp://www.decks.de/t/boston_168-oblivion_ep/c6g-ns\n\nArtist: Boston 168\nTitle: Oblivion EP\nLabel: Odd Even\nCatalogue: ODDEVEN004\nGenre: Electronic\nStyle: Techno\nRelease date: 08 February 2016\n\nTracklist:\n\nA1: Nightcall\nA2: Oblivion\nB1: Seven Heads\nB2: Split String\n\nOldschool driven hardware gooves! Trippy and spaced out acid techno by italian duo Boston 168. Outstanding coverprint, shrinked and DJ friendly 140g pressing. Mastering and Cut by CGB at Dubplates and Mastering.\n___\nDISCLAIMER:\nTrack is uploaded in a low quality for promotional purposes only and with buy links to respect label and artists. If either label, artist or third party copyright holder do not agree with their material being uploaded please contact us and we will delete it immediately. For any additional information you can contact us on hatemusic1@gmail.com or via YouTube.",
+                "title": "Heden \u2014 Grave (Andree Bohlin Remix) [SHVRS004]",
+                "description": "Support the label, buy it here:\nhttps://shivers-label.bandcamp.com/\n\nArtist: Heden \nTitle: Martha EP \nLabel: Shivers\nCatalogue: SHVRS004\nFormat: Digital\nGenre: Electronic\nStyle: #Techno\nRelease date: February 28, 2025\n\nTracklist:\n1. Heden - Martha\n2. Heden - C4\n3. Heden - Grave\n4. Heden - Martha (New Frames Remix)\n5. Heden - C4 (Billie Jo In A Trance Remix)\n6. Heden - Grave (Andree Bohlin Remix)\n\nFollow #Shivers here:\nhttps://soundcloud.com/shivers-label\nhttps://www.instagram.com/shivers_label/\nshivers.label@gmail.com\nhttps://linktr.ee/billie.jo\n\nFollow #Heden here:\nhttps://soundcloud.com/lord-house\nhttps://www.instagram.com/ca.heden/\n\n___\nDISCLAIMER: All tracks are uploaded in a low quality for promotional purposes only and with buy links to respect label and artists.\n\nCONTACT EMAIL: hatemusic1@gmail.com\n\nFollow us on INSTAGRAM and FACEBOOK for releases previews and news:\nhttps://www.instagram.com/hate_collective\nhttps://www.facebook.com/hatecollective/\n\nFollow us on SOUNDCLOUD for exclusive podcast series:\nhttps://soundcloud.com/hate_music",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/8Ty7qiAlI2I/default.jpg",
+                        "url": "https://i.ytimg.com/vi/pEJjyYNdMeE/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/8Ty7qiAlI2I/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/pEJjyYNdMeE/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/8Ty7qiAlI2I/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/pEJjyYNdMeE/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     },
                     "standard": {
-                        "url": "https://i.ytimg.com/vi/8Ty7qiAlI2I/sddefault.jpg",
+                        "url": "https://i.ytimg.com/vi/pEJjyYNdMeE/sddefault.jpg",
                         "width": 640,
                         "height": 480
                     },
                     "maxres": {
-                        "url": "https://i.ytimg.com/vi/8Ty7qiAlI2I/maxresdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/pEJjyYNdMeE/maxresdefault.jpg",
                         "width": 1280,
                         "height": 720
                     }
@@ -2317,7 +2322,7 @@
                 "position": 49,
                 "resourceId": {
                     "kind": "youtube#video",
-                    "videoId": "8Ty7qiAlI2I"
+                    "videoId": "pEJjyYNdMeE"
                 },
                 "videoOwnerChannelTitle": "HATE",
                 "videoOwnerChannelId": "UC6qQOTx9LuKMC5p2dbjmSRg"
