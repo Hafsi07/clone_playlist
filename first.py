@@ -1,6 +1,5 @@
 from googleapiclient.discovery import build
 import json
-import base64
 import requests
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
@@ -61,15 +60,38 @@ def get_youtube_playlist_videos(playlist_id):
             pageToken=next_page_token
         )
         response = request.execute()
-        
+        video_ids = []
         for item in response['items']:
             try:
+                video_id = item['snippet']['resourceId']['videoId']
                 title = item['snippet']['title']
                 artist = item['snippet']['videoOwnerChannelTitle']
-                videos.append((title, artist))
+                publish_date = item['contentDetails']['videoPublishedAt']
+                videos.append({"video_id" : video_id, "title" : title, "artist" : artist, "date" : publish_date})
+                video_ids.append(video_id)
             except: 
                 k=k+1
                 continue
+        
+        request = youtube.videos().list(part = "contentDetails,statistics", id = ",".join(video_ids))
+        response = request.execute()
+        print(response)
+        print('\n\n',response['items'][0],'\n\n')
+        details={}
+        for item in response['items']:
+            video_id = item['id']
+            duration = item['contentDetails']['duration']
+            views = item['statistics'].get('viewCount', '0')
+            likes = item['statistics'].get('likeCount', '0')
+
+            details[video_id] = {
+                "duration": duration,
+                "views": int(views),
+                "likes": int(likes)
+            }
+        for i,video in enumerate(videos[-len(videos):]):
+            video.update(details.get(video["video_id"], {}))
+
         next_page_token = response.get('nextPageToken')
         print('Next page token :',next_page_token,'\n')
         if not next_page_token:
