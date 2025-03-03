@@ -3,26 +3,17 @@ import json
 import requests
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
+from dotenv import load_dotenv
+import os
+import re
 
-yt_api = "AIzaSyCFsgez3d--SRL_xHX9KzD_j_-cqgglfgo"
+load_dotenv("credentials.env")
 
-sptfy_auth = "f3d33bf066ab4f07bf4685bcf81ee0a2"
-sptfy_api = "faf4810bfc7e4195aeaacebb613b3bd7"
-
+yt_api = os.getenv("yt_api")
+sptfy_auth = os.getenv("sptfy_auth")
+sptfy_api = os.getenv("sptfy_api")
 
 yt = build('youtube', 'v3', developerKey=yt_api )   
-
-request = yt.playlistItems().list(part= 'snippet', playlistId='RDylCVkCstuo4',maxResults=50)
-
-
-response = request.execute()
-
-video_ids = [item['snippet']['resourceId']['videoId'] for item in response['items']]
-print(video_ids)
-
-with open('res.json','w') as f:
-    json.dump(response,f, indent=4)
-
 
 SCOPES  = ['https://www.googleapis.com/auth/youtube']
 
@@ -72,13 +63,11 @@ def get_youtube_playlist_videos(playlist_id):
             except: 
                 k=k+1
                 continue
-        
-        request = youtube.videos().list(part = "contentDetails,statistics", id = ",".join(video_ids))
-        response = request.execute()
-        print(response)
-        print('\n\n',response['items'][0],'\n\n')
+        print(len(videos)," first len")
+        req = youtube.videos().list(part = "contentDetails,statistics", id = ",".join(video_ids))
+        res = req.execute()
         details={}
-        for item in response['items']:
+        for item in res['items']:
             video_id = item['id']
             duration = item['contentDetails']['duration']
             views = item['statistics'].get('viewCount', '0')
@@ -91,31 +80,67 @@ def get_youtube_playlist_videos(playlist_id):
             }
         for i,video in enumerate(videos[-len(videos):]):
             video.update(details.get(video["video_id"], {}))
+        print(len(videos)," second len")
 
         next_page_token = response.get('nextPageToken')
         print('Next page token :',next_page_token,'\n')
         if not next_page_token:
             break
-        print(f"we have {len(videos)} tracks")
+    print(f"we have {len(videos)} tracks")
     print('skipped ',k,' tracks')
     
     return videos   
 
 SPOTIFY_API_URL = "https://api.spotify.com/v1"
 
-def search_spotify_track(title, artist):
-    query = f"track:{title} artist:{artist}"
+def clean_dict(song):
+    # print('\n',song)
+    match = re.match(r'PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?', song["duration"])
+    hours = int(match.group(1) or 0)
+    minutes = int(match.group(2) or 0)
+    seconds = int(match.group(3) or 0)
+    song["duration"] = ((hours * 3600) + (minutes * 60) + seconds) * 1000
+
+    song["artist"] = re.sub(r"(?i)\b(vevo|topic|various artists|official channel|official|records|music|productions)\b", "", song["artist"], flags=re.IGNORECASE)
+    song["artist"] = re.sub(r"[^\w\s]", "", song["artist"]).strip()
+
+    song["title"]= re.sub(r"\(.*?\)|\[.*?\]", "", song["title"]) 
+    song["title"] = re.sub( rf"^{re.escape(song["artist"])}\s*[-:]\s*", "", song["title"], flags=re.IGNORECASE).strip()
+    # print(song["artist"].replace(' ',''))
+    song["title"] = re.sub( rf"^{re.escape(str(song["artist"]).replace(' ',''))}\s*[-:]\s*", "", song["title"], flags=re.IGNORECASE).strip()
+    unwanted_words = r"\b(official|video|lyrics|audio|hd|4k|remastered|vevo|cover|live|mix|edit|extended|ft\.?|feat\.?)\b"
+    song["title"] = re.sub(unwanted_words, "", song["title"], flags = re.IGNORECASE)
+    song["title"] = song["title"].strip()
+    # print(song,'\n')
+    
+    return song
+
+
+
+def search_spotify_track(song):
+    query = f"track:{song["title"]}"
+    
     url = f"{SPOTIFY_API_URL}/search?q={query}&type=track&limit=1"
     response = requests.get(url, headers=HEADERS).json()
     tracks = response.get("tracks", {}).get("items", [])
-    
 
-    if tracks:
-        print('\n', title,'<>',artist,' -- ',tracks[0].get("name"))
-        with open('track_example.json','w') as f:
-            json.dump(tracks[0],f, indent=4)
-        return tracks[0]['id']
-    return None
+    
+    
+    if not tracks:
+        return None
+    
+    matche=None
+    duration_error=float(9999000)
+    for track in tracks:
+        spotify_duration = track["duration_ms"]
+        diff = abs(spotify_duration - song["duration"])
+
+        if diff < duration_error:  
+            duration_error = diff
+            matche = track
+    print('\n',song["title"],' -- ',song["artist"],' -- ',song["duration"],' :: ', matche["name"],' -- ',matche["duration_ms"])
+    if matche: return matche["id"]
+    
 
 def get_user_id(token):
     url = "https://api.spotify.com/v1/me"
@@ -136,23 +161,30 @@ def create_spotify_playlist(name, description="trialList",public=True):
 
 def add_tracks_to_spotify(playlist_id, track_ids):
     url = f"{SPOTIFY_API_URL}/playlists/{playlist_id}/tracks"
-    data = {"uris": [f"spotify:track:{track_id}" for track_id in track_ids]}
-    res=requests.post(url, json=data, headers=HEADERS)
-    print('\n',res)
+    for i in range(0, len(track_ids), 100):
+        batch = track_ids[i:i + 100]
+        payload = {"uris": [f"spotify:track:{track_id}" for track_id in batch]}
+        
+        response = requests.post(url, json=payload, headers=HEADERS)
+        
+        if response.status_code == 201:
+            print(f"✅{len(batch)} tracks added!")
+        else:
+            print(f"❌ Error adding tracks: {response.status_code} - {response.text}")
 
 if __name__ == "__main__":
     youtube_playlist_id = "PLr-XCZlklEPDuf2KvOKNqujTbPpyRTdZm"
     
     print("Fetching YouTube playlist...")
     youtube_tracks = get_youtube_playlist_videos(youtube_playlist_id)
-    print("Creating Spotify playlist...")
+    print("\nCreating Spotify playlist...")
     
     spotify_playlist_id = create_spotify_playlist(name = "Code_trial")
     
     spotify_track_ids = []
-    print("Searching and adding tracks to Spotify...")
-    for title, artist in youtube_tracks:
-        track_id = search_spotify_track(title, artist)
+    print("\nSearching and adding tracks to Spotify...")
+    for song in youtube_tracks:
+        track_id = search_spotify_track(clean_dict(song))
         if track_id:
             spotify_track_ids.append(track_id)
     print(spotify_track_ids)
